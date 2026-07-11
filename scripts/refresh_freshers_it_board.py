@@ -33,6 +33,43 @@ USER_AGENT = (
 )
 
 LOCATION_PRIORITY = ["Kochi", "Thiruvananthapuram", "Bengaluru"]
+MNC_PRIORITY = [
+    "tcs",
+    "tata consultancy services",
+    "infosys",
+    "wipro",
+    "hcl",
+    "hcltech",
+    "hcl technologies",
+    "tech mahindra",
+    "accenture",
+    "cognizant",
+    "capgemini",
+    "ibm",
+    "deloitte",
+    "ey",
+    "ernst & young",
+    "kpmg",
+    "pwc",
+    "oracle",
+    "sap",
+    "microsoft",
+    "google",
+    "amazon",
+    "aws",
+    "intel",
+    "hp",
+    "dxc",
+    "lti mindtree",
+    "ltimindtree",
+    "mphasis",
+    "cgi",
+    "genpact",
+    "siemens",
+    "nokia",
+    "ust",
+    "zoho",
+]
 IT_KEYWORDS = {
     "software",
     "developer",
@@ -426,9 +463,20 @@ def dedupe_jobs(jobs: Iterable[Job]) -> list[Job]:
 
 def sort_jobs(jobs: list[Job]) -> list[Job]:
     priority = {city: index for index, city in enumerate(LOCATION_PRIORITY)}
+    mnc_priority = {name: index for index, name in enumerate(MNC_PRIORITY)}
 
-    def sort_key(job: Job) -> tuple[int, str, str, str]:
+    def company_rank(company: str) -> tuple[int, int]:
+        normalized = company.lower()
+        for name, index in mnc_priority.items():
+            if name in normalized:
+                return (0, index)
+        return (1, len(MNC_PRIORITY) + 1)
+
+    def sort_key(job: Job) -> tuple[int, int, int, str, str, str]:
+        mnc_flag, mnc_index = company_rank(job.company)
         return (
+            mnc_flag,
+            mnc_index,
             priority.get(job.location, 999),
             "9999-99-99" if job.posted == "n/a" else job.posted,
             job.apply_by,
@@ -663,13 +711,6 @@ def render_html(jobs: list[Job], refreshed_at: str, source_summary: str) -> str:
       letter-spacing: .08em;
       text-transform: uppercase;
     }}
-    .hero-copy {{
-      margin-top: 18px;
-      max-width: 700px;
-      color: rgba(243, 251, 255, .78);
-      font-size: 15px;
-      line-height: 1.6;
-    }}
     .hero-meta {{
       display: flex;
       flex-wrap: wrap;
@@ -710,13 +751,6 @@ def render_html(jobs: list[Job], refreshed_at: str, source_summary: str) -> str:
       font-size: 34px;
       line-height: .95;
       letter-spacing: -.04em;
-    }}
-    .stamp-list {{
-      display: grid;
-      gap: 10px;
-      color: rgba(243, 251, 255, .84);
-      font-size: 13px;
-      line-height: 1.5;
     }}
     .toolbar {{
       display: grid;
@@ -964,7 +998,6 @@ def render_html(jobs: list[Job], refreshed_at: str, source_summary: str) -> str:
           <div>
             <div class="eyebrow">Auto-refreshing every 30 minutes</div>
             <h1>Freshers IT Job Board</h1>
-            <div class="hero-copy">Verified IT fresher roles from public sources, ranked for Kochi first, then Thiruvananthapuram, then Bengaluru. Clean signal only: direct listings, tracked source coverage, fast filtering.</div>
             <div class="hero-meta">
               <div class="hero-chip">Software</div>
               <div class="hero-chip">Data</div>
@@ -978,10 +1011,6 @@ def render_html(jobs: list[Job], refreshed_at: str, source_summary: str) -> str:
           <div>
             <div class="stamp-label">Last refreshed</div>
             <strong>{html.escape(datetime.fromisoformat(refreshed_at.replace("Z", "+00:00")).strftime("%d %b %Y"))}</strong>
-          </div>
-          <div class="stamp-list">
-            <div>Priority: Kochi -> Thiruvananthapuram -> Bengaluru</div>
-            <div>Sources: {html.escape(source_summary)}</div>
           </div>
         </div>
       </header>
