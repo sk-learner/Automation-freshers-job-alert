@@ -1,0 +1,182 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="board-scope" content="IT-only entry level and fresher-friendly public job postings">
+  <meta name="last-refresh-iso" content="2026-07-11">
+  <meta name="last-refresh-at" content="2026-07-11T08:11:57Z">
+  <meta name="location-priority" content="Kochi,Thiruvananthapuram,Bengaluru">
+  <meta name="sources-checked" content="Infopark page 1: 8 IT roles, Infopark page 2: 4 IT roles, Technopark: 0 IT roles, Bengaluru direct employer pages: 1 IT roles, Naukri verified pages: 0 IT roles">
+  <title>Freshers IT Job Board</title>
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%23246b51'/%3E%3Cpath d='M23 22v-3.5A4.5 4.5 0 0 1 27.5 14h9A4.5 4.5 0 0 1 41 18.5V22' fill='none' stroke='%23ffffff' stroke-width='4' stroke-linecap='round'/%3E%3Crect x='15' y='22' width='34' height='26' rx='5' fill='%23f7f8ef'/%3E%3Cpath d='M15 31h34' stroke='%23246b51' stroke-width='4'/%3E%3Cpath d='M26 39.5 30.2 44 39 34' fill='none' stroke='%23246b51' stroke-width='4' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E">
+  <style>
+    :root {
+      --ink: #17211b;
+      --muted: #637067;
+      --panel: #ffffff;
+      --green: #246b51;
+      --mint: #dcefe4;
+      --blue: #305f8f;
+      --sky: #dbe9f5;
+      --gold: #8d6422;
+      --sand: #f2e8cf;
+      --violet: #604b8a;
+      --lav: #e7e1f1;
+      --shadow: 0 18px 42px rgba(32, 42, 34, .11);
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      color: var(--ink);
+      background:
+        radial-gradient(circle at 12% 8%, rgba(36, 107, 81, .13), transparent 24rem),
+        radial-gradient(circle at 88% 2%, rgba(48, 95, 143, .14), transparent 22rem),
+        linear-gradient(180deg, #f7f8ef 0%, #eef3eb 52%, #f7f5ef 100%);
+      min-height: 100vh;
+    }
+    .shell { width: min(1480px, calc(100vw - 32px)); margin: 0 auto; padding: 28px 0 42px; }
+    header { display: grid; grid-template-columns: 1fr auto; gap: 24px; align-items: end; padding: 10px 0 24px; }
+    .brand { display: flex; align-items: center; gap: 14px; }
+    .app-icon { width: 54px; height: 54px; flex: 0 0 auto; border-radius: 12px; box-shadow: 0 14px 32px rgba(36, 107, 81, .22); }
+    h1 { margin: 0 0 8px; font-size: clamp(32px, 5vw, 58px); line-height: .98; }
+    .sub { max-width: 820px; color: var(--muted); font-size: 15px; line-height: 1.55; }
+    .stamp { background: rgba(255,255,255,.74); border: 1px solid rgba(23,33,27,.12); border-radius: 8px; box-shadow: var(--shadow); padding: 14px 16px; min-width: 290px; }
+    .stamp strong { display: block; font-size: 28px; }
+    .stamp span { color: var(--muted); font-size: 13px; display: block; }
+    .toolbar { display: grid; grid-template-columns: minmax(220px, 1fr) auto auto; gap: 12px; margin-bottom: 18px; align-items: center; }
+    input, select, button {
+      height: 42px; border: 1px solid rgba(23,33,27,.16); border-radius: 8px; background: rgba(255,255,255,.82);
+      color: var(--ink); font: inherit; padding: 0 12px; box-shadow: 0 8px 22px rgba(32, 42, 34, .06);
+    }
+    button { cursor: pointer; background: var(--ink); color: #fff; border-color: var(--ink); font-weight: 700; }
+    .metrics { display: grid; grid-template-columns: repeat(5, minmax(150px, 1fr)); gap: 12px; margin-bottom: 18px; }
+    .metric { background: rgba(255,255,255,.76); border: 1px solid rgba(23,33,27,.12); border-radius: 8px; padding: 14px; box-shadow: 0 14px 36px rgba(32, 42, 34, .08); }
+    .metric span { display: block; color: var(--muted); font-size: 12px; text-transform: uppercase; letter-spacing: .08em; }
+    .metric strong { display: block; margin-top: 6px; font-size: 30px; line-height: 1; }
+    .board { display: grid; grid-template-columns: repeat(4, minmax(260px, 1fr)); gap: 14px; align-items: start; overflow-x: auto; padding-bottom: 8px; }
+    .lane { min-width: 260px; background: rgba(255,255,255,.54); border: 1px solid rgba(23,33,27,.13); border-radius: 8px; box-shadow: 0 18px 40px rgba(32, 42, 34, .09); padding: 12px; }
+    .lane-title { display: flex; justify-content: space-between; align-items: center; margin: 0 0 12px; font-weight: 800; }
+    .lane-title span { color: var(--muted); font-size: 12px; font-weight: 700; }
+    .card { background: var(--panel); border: 1px solid rgba(23,33,27,.12); border-radius: 8px; padding: 13px; margin-bottom: 10px; box-shadow: 0 10px 24px rgba(32, 42, 34, .08); }
+    .card h3 { margin: 0 0 4px; font-size: 17px; line-height: 1.2; }
+    .role { color: var(--muted); font-size: 13px; min-height: 34px; line-height: 1.35; }
+    .meta { display: flex; flex-wrap: wrap; gap: 7px; margin: 12px 0; }
+    .pill { border-radius: 999px; padding: 5px 8px; font-size: 12px; font-weight: 750; border: 1px solid rgba(23,33,27,.1); background: #f4f6f1; }
+    .Kochi .pill.status { background: var(--mint); color: var(--green); }
+    .Thiruvananthapuram .pill.status { background: var(--lav); color: var(--violet); }
+    .Bengaluru .pill.status { background: var(--sky); color: var(--blue); }
+    .Watchlist .pill.status { background: var(--sand); color: var(--gold); }
+    .note { color: #354039; font-size: 13px; line-height: 1.45; margin: 0 0 12px; }
+    .card a { color: var(--green); text-decoration: none; font-weight: 800; font-size: 13px; }
+    .footnote { margin-top: 18px; color: var(--muted); font-size: 12px; line-height: 1.55; }
+    @media (max-width: 900px) {
+      header, .toolbar, .metrics { grid-template-columns: 1fr; }
+      .stamp { min-width: 0; }
+      .board { grid-template-columns: 1fr; overflow-x: visible; }
+      .lane { min-width: 0; }
+    }
+  </style>
+</head>
+<body>
+  <main class="shell">
+    <header>
+      <div class="brand">
+        <svg class="app-icon" viewBox="0 0 64 64" aria-hidden="true">
+          <rect width="64" height="64" rx="14" fill="#246b51"></rect>
+          <path d="M23 22v-3.5A4.5 4.5 0 0 1 27.5 14h9A4.5 4.5 0 0 1 41 18.5V22" fill="none" stroke="#fff" stroke-width="4" stroke-linecap="round"></path>
+          <rect x="15" y="22" width="34" height="26" rx="5" fill="#f7f8ef"></rect>
+          <path d="M15 31h34" stroke="#246b51" stroke-width="4"></path>
+          <path d="M26 39.5 30.2 44 39 34" fill="none" stroke="#246b51" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+        </svg>
+        <div>
+          <h1>Freshers IT Job Board</h1>
+          <div class="sub">Latest verified public IT openings for software, data, QA, implementation, and trainee-style entry roles, sorted with location priority: Kochi first, then Thiruvananthapuram, then Bengaluru.</div>
+        </div>
+      </div>
+      <div class="stamp">
+        <span>Last refreshed</span>
+        <strong>11 Jul 2026</strong>
+        <span>Priority order: Kochi -> Thiruvananthapuram -> Bengaluru</span>
+        <span>Sources checked: Infopark page 1: 8 IT roles, Infopark page 2: 4 IT roles, Technopark: 0 IT roles, Bengaluru direct employer pages: 1 IT roles, Naukri verified pages: 0 IT roles</span>
+      </div>
+    </header>
+    <section class="toolbar">
+      <input id="search" type="search" placeholder="Search company, IT role, city, source">
+      <select id="location">
+        <option value="">All locations</option>
+        <option>Kochi</option>
+        <option>Thiruvananthapuram</option>
+        <option>Bengaluru</option>
+        <option>Watchlist</option>
+      </select>
+      <button id="download">Download CSV</button>
+    </section>
+    <section class="metrics" id="metrics"></section>
+    <section class="board" id="board"></section>
+    <p class="footnote">This refresh keeps only IT-focused postings that were publicly visible and verifiable in the latest run. If a source is inaccessible or does not expose direct listing rows, the board keeps the gap explicit instead of fabricating cards.</p>
+  </main>
+  <script>
+    const jobs = [{"company": "Inspite Technologies Pvt.Ltd", "role": "WordPress Developer", "location": "Kochi", "posted": "07-07-2026", "apply_by": "2026-07-14", "level": "Entry level", "source": "Infopark page 2", "note": "Verified from Infopark public jobs page 2.", "url": "https://infopark.in/company-jobs/details/442/24513"}, {"company": "Feathersoft Info Solutions Private Ltd", "role": "Apprenticeship Opportunity for Diploma/ B tech Students", "location": "Kochi", "posted": "09-07-2026", "apply_by": "2026-07-15", "level": "Apprenticeship", "source": "Infopark page 2", "note": "Verified from Infopark public jobs page 2.", "url": "https://infopark.in/company-jobs/details/269/24559"}, {"company": "Nesa Software Pvt Ltd", "role": "Data Analyst", "location": "Kochi", "posted": "09-07-2026", "apply_by": "2026-07-19", "level": "Entry level", "source": "Infopark page 2", "note": "Verified from Infopark public jobs page 2.", "url": "https://infopark.in/company-jobs/details/530/24562"}, {"company": "Pearlsoft Technologies LLP", "role": "AI/ML Engineer (Generative AI)", "location": "Kochi", "posted": "09-07-2026", "apply_by": "2026-08-09", "level": "Entry level", "source": "Infopark page 2", "note": "Verified from Infopark public jobs page 2.", "url": "https://infopark.in/company-jobs/details/401/24556"}, {"company": "2Base Technologies Pvt Ltd", "role": "Associate - System Engineer", "location": "Kochi", "posted": "10-07-2026", "apply_by": "2026-07-11", "level": "Entry level", "source": "Infopark page 1", "note": "Verified from Infopark public jobs page 1.", "url": "https://infopark.in/company-jobs/details/312/24573"}, {"company": "2Base Technologies Pvt Ltd", "role": "Software Engineer - Web", "location": "Kochi", "posted": "10-07-2026", "apply_by": "2026-07-11", "level": "Entry level", "source": "Infopark page 1", "note": "Verified from Infopark public jobs page 1.", "url": "https://infopark.in/company-jobs/details/312/24572"}, {"company": "2Base Technologies Pvt Ltd", "role": "QA Engineer", "location": "Kochi", "posted": "10-07-2026", "apply_by": "2026-07-11", "level": "Entry level", "source": "Infopark page 1", "note": "Verified from Infopark public jobs page 1.", "url": "https://infopark.in/company-jobs/details/312/24566"}, {"company": "2Base Technologies Pvt Ltd", "role": "Business Analyst", "location": "Kochi", "posted": "10-07-2026", "apply_by": "2026-07-11", "level": "Entry level", "source": "Infopark page 1", "note": "Verified from Infopark public jobs page 1.", "url": "https://infopark.in/company-jobs/details/312/24564"}, {"company": "Edstem Technologies Pvt Ltd", "role": "Business Analyst", "location": "Kochi", "posted": "10-07-2026", "apply_by": "2026-07-20", "level": "Entry level", "source": "Infopark page 1", "note": "Verified from Infopark public jobs page 1.", "url": "https://infopark.in/company-jobs/details/341/24580"}, {"company": "SS Consulting", "role": "AI Engineer", "location": "Kochi", "posted": "10-07-2026", "apply_by": "2026-07-31", "level": "Entry level", "source": "Infopark page 1", "note": "Verified from Infopark public jobs page 1.", "url": "https://infopark.in/company-jobs/details/468/24576"}, {"company": "Feathersoft Info Solutions Private Ltd", "role": "Data Engineer", "location": "Kochi", "posted": "10-07-2026", "apply_by": "2026-08-10", "level": "Entry level", "source": "Infopark page 1", "note": "Verified from Infopark public jobs page 1.", "url": "https://infopark.in/company-jobs/details/269/24578"}, {"company": "Thomsun Infocare LLP", "role": "Business Analyst / Implementation Engineer", "location": "Kochi", "posted": "10-07-2026", "apply_by": "2026-08-10", "level": "Entry level", "source": "Infopark page 1", "note": "Verified from Infopark public jobs page 1.", "url": "https://infopark.in/company-jobs/details/259/24579"}, {"company": "Sprinto", "role": "AI Implementation Intern", "location": "Bengaluru", "posted": "n/a", "apply_by": "n/a", "level": "Internship", "source": "Direct public employer page", "note": "Verified from a live public employer listing page.", "url": "https://jobs.lever.co/Sprinto/c325db0c-2182-4751-85c2-4adfee69a6ce"}, {"company": "Technopark public careers", "role": "Coverage check only", "location": "Watchlist", "posted": "2026-07-11", "apply_by": "n/a", "level": "Source status", "source": "Technopark", "note": "No verified IT listing rows were captured for Trivandrum in this run.", "url": "https://technopark.in/job-search"}, {"company": "Run notes", "role": "Source coverage summary", "location": "Watchlist", "posted": "2026-07-11", "apply_by": "n/a", "level": "Source status", "source": "Automation", "note": "Infopark page 1: 8 IT roles | Infopark page 2: 4 IT roles | Technopark: 0 IT roles | Bengaluru direct employer pages: 1 IT roles | Naukri verified pages: 0 IT roles", "url": "https://infopark.in/companies-job"}];
+    const lanes = [["Kochi","Priority 1"],["Thiruvananthapuram","Priority 2"],["Bengaluru","Priority 3"],["Watchlist","Source gaps"]];
+    const board = document.querySelector("#board");
+    const metrics = document.querySelector("#metrics");
+    const search = document.querySelector("#search");
+    const locationFilter = document.querySelector("#location");
+    function card(job) {
+      return `<article class="card ${job.location}">
+        <h3>${job.company}</h3>
+        <div class="role">${job.role}</div>
+        <div class="meta">
+          <span class="pill status">${job.location}</span>
+          <span class="pill">${job.posted}</span>
+          <span class="pill">Apply by ${job.apply_by}</span>
+          <span class="pill">${job.level}</span>
+        </div>
+        <p class="note">${job.note}</p>
+        <a href="${job.url}" target="_blank" rel="noreferrer">Open source listing</a>
+      </article>`;
+    }
+    function render() {
+      const q = search.value.trim().toLowerCase();
+      const selected = locationFilter.value;
+      const filtered = jobs.filter(job => {
+        const text = `${job.company} ${job.role} ${job.location} ${job.level} ${job.source} ${job.note}`.toLowerCase();
+        return (!q || text.includes(q)) && (!selected || job.location === selected);
+      });
+      metrics.innerHTML = [
+        ["Verified cards", filtered.length],
+        ["Kochi", filtered.filter(j => j.location === "Kochi").length],
+        ["Trivandrum", filtered.filter(j => j.location === "Thiruvananthapuram").length],
+        ["Bengaluru", filtered.filter(j => j.location === "Bengaluru").length],
+        ["Apply soon", filtered.filter(j => j.apply_by !== "n/a").length]
+      ].map(([label, value]) => `<div class="metric"><span>${label}</span><strong>${value}</strong></div>`).join("");
+      board.innerHTML = lanes.map(([lane, label]) => {
+        const laneJobs = filtered.filter(job => job.location === lane);
+        return `<section class="lane">
+          <div class="lane-title">${lane}<span>${label} / ${laneJobs.length}</span></div>
+          ${laneJobs.map(card).join("") || `<div class="card"><p class="note">No verified public IT fresher posting was captured for this lane in the current refresh.</p></div>`}
+        </section>`;
+      }).join("");
+    }
+    function csvEscape(value) {
+      return `"${String(value).replaceAll('"', '""')}"`;
+    }
+    document.querySelector("#download").addEventListener("click", () => {
+      const header = ["Company", "Role", "Location", "Posted", "Apply By", "Level", "Source", "Note", "URL"];
+      const rows = jobs.map(job => [job.company, job.role, job.location, job.posted, job.apply_by, job.level, job.source, job.note, job.url]);
+      const csv = [header, ...rows].map(row => row.map(csvEscape).join(",")).join("\n");
+      const blob = new Blob([csv], { type: "text/csv" });
+      const link = document.createElement("a");
+      link.href = URL.createObjectURL(blob);
+      link.download = "freshers-job-board.csv";
+      link.click();
+      URL.revokeObjectURL(link.href);
+    });
+    search.addEventListener("input", render);
+    locationFilter.addEventListener("change", render);
+    render();
+  </script>
+</body>
+</html>
