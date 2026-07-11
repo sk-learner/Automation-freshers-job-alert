@@ -15,6 +15,9 @@ concurrency:
 jobs:
   refresh:
     runs-on: ubuntu-latest
+    env:
+      NTFY_ACCESS_TOKEN: ${{ secrets.NTFY_ACCESS_TOKEN }}
+      NTFY_TOPIC_URL: ${{ secrets.NTFY_TOPIC_URL }}
     steps:
       - name: Check out repository
         uses: actions/checkout@v4
@@ -42,10 +45,7 @@ jobs:
           git push
 
       - name: Send ntfy notification
-        if: ${{ hashFiles('outputs/ntfy-notification.json') != '' && secrets.NTFY_TOPIC_URL != '' }}
-        env:
-          NTFY_ACCESS_TOKEN: ${{ secrets.NTFY_ACCESS_TOKEN }}
-          NTFY_TOPIC_URL: ${{ secrets.NTFY_TOPIC_URL }}
+        if: ${{ hashFiles('outputs/ntfy-notification.json') != '' && env.NTFY_TOPIC_URL != '' }}
         run: |
           python - <<'PY'
           import json
