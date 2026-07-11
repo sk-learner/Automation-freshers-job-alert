@@ -40,3 +40,38 @@ jobs:
           git diff --cached --quiet && exit 0
           git commit -m "Refresh freshers IT board"
           git push
+
+      - name: Send ntfy notification
+        if: ${{ hashFiles('outputs/ntfy-notification.json') != '' && secrets.NTFY_TOPIC_URL != '' }}
+        env:
+          NTFY_ACCESS_TOKEN: ${{ secrets.NTFY_ACCESS_TOKEN }}
+          NTFY_TOPIC_URL: ${{ secrets.NTFY_TOPIC_URL }}
+        run: |
+          python - <<'PY'
+          import json
+          import os
+          import requests
+
+          with open("outputs/ntfy-notification.json", encoding="utf-8") as handle:
+              payload = json.load(handle)
+
+          headers = {
+              "Title": payload["title"],
+              "Priority": str(payload.get("priority", "default")),
+              "Tags": payload.get("tags", ""),
+              "Click": payload["click"],
+              "Markdown": "yes",
+          }
+          token = os.getenv("NTFY_ACCESS_TOKEN", "").strip()
+          if token:
+              headers["Authorization"] = f"Bearer {token}"
+
+          response = requests.post(
+              os.environ["NTFY_TOPIC_URL"],
+              data=payload["message"].encode("utf-8"),
+              headers=headers,
+              timeout=30,
+          )
+          response.raise_for_status()
+          print(f"Sent ntfy notification for {payload['newJobCount']} new jobs")
+          PY
