@@ -130,6 +130,34 @@ SENIORITY_EXCLUSIONS = {
     "principal",
     "staff ",
 }
+FRESHER_ROLE_KEYWORDS = {
+    "fresher",
+    "freshers",
+    "trainee",
+    "intern",
+    "internship",
+    "apprentice",
+    "apprenticeship",
+    "graduate",
+    "entry level",
+    "junior",
+    "associate",
+}
+FRESHER_TEXT_KEYWORDS = {
+    "freshers can apply",
+    "freshers may apply",
+    "fresher can apply",
+    "fresher may apply",
+    "0-1 year",
+    "0 - 1 year",
+    "0 to 1 year",
+    "0-1 years",
+    "0 - 1 years",
+    "0 to 1 years",
+    "0 year",
+    "0 years",
+    "no experience",
+}
 CITY_ALIASES = {
     "kochi": "Kochi",
     "cochin": "Kochi",
@@ -215,15 +243,42 @@ def classify_level(role: str) -> str:
 
 
 def is_it_role(role: str, company: str = "", note: str = "") -> bool:
-    haystack = f"{role} {company}".lower()
+    haystack = f"{role} {company} {note}".lower()
     if any(term in haystack for term in NON_IT_KEYWORDS):
         return False
     return any(term in haystack for term in IT_KEYWORDS)
 
 
-def is_entry_friendly(role: str) -> bool:
-    lower = role.lower()
-    return not any(term in lower for term in SENIORITY_EXCLUSIONS)
+def has_experience_requirement(text: str) -> bool:
+    lower = text.lower()
+    disqualifying_patterns = (
+        r"\b2\+?\s*(?:years?|yrs?)\b",
+        r"\b[2-9]\+?\s*(?:to\s*[2-9]\+?\s*)?(?:years?|yrs?)\b",
+        r"\b\d+\s*-\s*\d+\s*(?:years?|yrs?)\b",
+        r"\b\d+\s+to\s+\d+\s*(?:years?|yrs?)\b",
+        r"\bminimum\s+\d+\s*(?:years?|yrs?)\b",
+        r"\bat least\s+\d+\s*(?:years?|yrs?)\b",
+        r"\bexperience\s*[:\-]?\s*\d+\+?\s*(?:years?|yrs?)\b",
+    )
+    for pattern in disqualifying_patterns:
+        match = re.search(pattern, lower)
+        if not match:
+            continue
+        digits = [int(value) for value in re.findall(r"\d+", match.group(0))]
+        if digits and max(digits) >= 2:
+            return True
+    return False
+
+
+def is_fresher_friendly(role: str, company: str = "", note: str = "") -> bool:
+    haystack = clean_text(f"{role} {company} {note}").lower()
+    if any(term in haystack for term in SENIORITY_EXCLUSIONS):
+        return False
+    if has_experience_requirement(haystack):
+        return False
+    if any(term in role.lower() for term in FRESHER_ROLE_KEYWORDS):
+        return True
+    return any(term in haystack for term in FRESHER_TEXT_KEYWORDS)
 
 
 def parse_date(text: str) -> str:
@@ -276,7 +331,7 @@ def verify_discovered_job(url: str, location_hint: str, source: str, fallback_ti
     role = clean_text(title.split("|")[0].split(" - ")[0])
     if not is_it_role(role, infer_company_from_url(url), text):
         return None
-    if not is_entry_friendly(role):
+    if not is_fresher_friendly(role, infer_company_from_url(url), text):
         return None
     return Job(
         company=infer_company_from_url(url),
@@ -309,7 +364,7 @@ def parse_naukri_search_page(url: str, location_hint: str) -> list[Job]:
         seen.add(job_url)
         if not is_it_role(role, company):
             continue
-        if not is_entry_friendly(role):
+        if not is_fresher_friendly(role, company):
             continue
         try:
             verified = verify_discovered_job(
@@ -354,7 +409,7 @@ def scrape_infopark_page(page: int) -> list[Job]:
             continue
         if not is_it_role(role, company, snippet):
             continue
-        if not is_entry_friendly(role):
+        if not is_fresher_friendly(role, company, snippet):
             continue
         jobs.append(
             Job(
@@ -389,6 +444,8 @@ def scrape_technopark() -> list[Job]:
         role = clean_text(links[0].get_text(" ", strip=True))
         if not is_it_role(role, note=snippet):
             continue
+        if not is_fresher_friendly(role, note=snippet):
+            continue
         company = clean_text(links[1].get_text(" ", strip=True)) if len(links) > 1 else "Technopark employer"
         href = requests.compat.urljoin(url, links[0]["href"])
         jobs.append(
@@ -420,6 +477,8 @@ def scrape_bengaluru_direct_pages() -> list[Job]:
         if role.lower() not in text.lower() or not normalize_location(text):
             continue
         if not is_it_role(role, company, text):
+            continue
+        if not is_fresher_friendly(role, company, text):
             continue
         jobs.append(
             Job(
