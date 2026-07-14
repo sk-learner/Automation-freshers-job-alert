@@ -1,12 +1,12 @@
 {
-  "refreshedAt": "2026-07-14T11:56:20Z",
+  "refreshedAt": "2026-07-14T14:02:48Z",
   "locationPriority": [
     "Kochi",
     "Thiruvananthapuram",
     "Bengaluru"
   ],
   "sourcesChecked": [
-    "Infopark page 1: 1 IT roles",
+    "Infopark page 1: 0 IT roles",
     "Infopark page 2: 1 IT roles",
     "Technopark: 0 IT roles",
     "Bengaluru direct employer pages: 0 IT roles",
@@ -14,25 +14,14 @@
   ],
   "jobs": [
     {
-      "company": "Feathersoft Info Solutions Private Ltd",
-      "role": "Apprenticeship Opportunity for Diploma/ B tech Students",
-      "location": "Kochi",
-      "posted": "09-07-2026",
-      "apply_by": "2026-07-15",
-      "level": "Apprenticeship",
-      "source": "Infopark page 2",
-      "note": "Verified from Infopark public jobs page 2.",
-      "url": "https://infopark.in/company-jobs/details/269/24559"
-    },
-    {
       "company": "2Base Technologies Pvt Ltd",
       "role": "Associate - System Engineer",
       "location": "Kochi",
       "posted": "14-07-2026",
       "apply_by": "2026-07-14",
       "level": "Entry level",
-      "source": "Infopark page 1",
-      "note": "Verified from Infopark public jobs page 1.",
+      "source": "Infopark page 2",
+      "note": "Verified from Infopark public jobs page 2.",
       "url": "https://infopark.in/company-jobs/details/312/24608"
     },
     {
@@ -65,7 +54,7 @@
       "apply_by": "n/a",
       "level": "Source status",
       "source": "Automation",
-      "note": "Infopark page 1: 1 IT roles | Infopark page 2: 1 IT roles | Technopark: 0 IT roles | Bengaluru direct employer pages: 0 IT roles | Naukri verified pages: 0 IT roles",
+      "note": "Infopark page 1: 0 IT roles | Infopark page 2: 1 IT roles | Technopark: 0 IT roles | Bengaluru direct employer pages: 0 IT roles | Naukri verified pages: 0 IT roles",
       "url": "https://infopark.in/companies-job"
     }
   ]
