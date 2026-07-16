@@ -1,5 +1,5 @@
 {
-  "refreshedAt": "2026-07-16T02:55:23Z",
+  "refreshedAt": "2026-07-16T05:44:59Z",
   "locationPriority": [
     "Kochi",
     "Thiruvananthapuram",
@@ -7,7 +7,7 @@
   ],
   "sourcesChecked": [
     "Infopark page 1: 2 IT roles",
-    "Infopark page 2: 0 IT roles",
+    "Infopark page 2: 1 IT roles",
     "Technopark: 0 IT roles",
     "Bengaluru direct employer pages: 0 IT roles",
     "Naukri verified pages: 0 IT roles"
@@ -31,9 +31,20 @@
       "posted": "15-07-2026",
       "apply_by": "2026-07-24",
       "level": "Internship",
+      "source": "Infopark page 2",
+      "note": "Verified from Infopark public jobs page 2.",
+      "url": "https://infopark.in/company-jobs/details/372/24654"
+    },
+    {
+      "company": "2Base Technologies Pvt Ltd",
+      "role": "Associate - System Engineer",
+      "location": "Kochi",
+      "posted": "16-07-2026",
+      "apply_by": "2026-07-16",
+      "level": "Entry level",
       "source": "Infopark page 1",
       "note": "Verified from Infopark public jobs page 1.",
-      "url": "https://infopark.in/company-jobs/details/372/24654"
+      "url": "https://infopark.in/company-jobs/details/312/24673"
     },
     {
       "company": "Technopark public careers",
@@ -65,7 +76,7 @@
       "apply_by": "n/a",
       "level": "Source status",
       "source": "Automation",
-      "note": "Infopark page 1: 2 IT roles | Infopark page 2: 0 IT roles | Technopark: 0 IT roles | Bengaluru direct employer pages: 0 IT roles | Naukri verified pages: 0 IT roles",
+      "note": "Infopark page 1: 2 IT roles | Infopark page 2: 1 IT roles | Technopark: 0 IT roles | Bengaluru direct employer pages: 0 IT roles | Naukri verified pages: 0 IT roles",
       "url": "https://infopark.in/companies-job"
     }
   ]
