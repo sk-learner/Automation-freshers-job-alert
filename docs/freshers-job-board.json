@@ -1,12 +1,12 @@
 {
-  "refreshedAt": "2026-07-17T01:03:33Z",
+  "refreshedAt": "2026-07-17T04:43:33Z",
   "locationPriority": [
     "Kochi",
     "Thiruvananthapuram",
     "Bengaluru"
   ],
   "sourcesChecked": [
-    "Infopark page 1: 0 IT roles",
+    "Infopark page 1: 1 IT roles",
     "Infopark page 2: 2 IT roles",
     "Technopark: 0 IT roles",
     "Bengaluru direct employer pages: 0 IT roles",
@@ -18,7 +18,7 @@
       "role": "PHP Developer Intern - Female Candidates",
       "location": "Kochi",
       "posted": "15-07-2026",
-      "apply_by": "2026-07-22",
+      "apply_by": "2026-07-24",
       "level": "Internship",
       "source": "Infopark page 2",
       "note": "Verified from Infopark public jobs page 2.",
@@ -34,6 +34,17 @@
       "source": "Infopark page 2",
       "note": "Verified from Infopark public jobs page 2.",
       "url": "https://infopark.in/company-jobs/details/372/24654"
+    },
+    {
+      "company": "2Base Technologies Pvt Ltd",
+      "role": "Associate - System Engineer",
+      "location": "Kochi",
+      "posted": "17-07-2026",
+      "apply_by": "2026-07-17",
+      "level": "Entry level",
+      "source": "Infopark page 1",
+      "note": "Verified from Infopark public jobs page 1.",
+      "url": "https://infopark.in/company-jobs/details/312/24702"
     },
     {
       "company": "Technopark public careers",
@@ -65,7 +76,7 @@
       "apply_by": "n/a",
       "level": "Source status",
       "source": "Automation",
-      "note": "Infopark page 1: 0 IT roles | Infopark page 2: 2 IT roles | Technopark: 0 IT roles | Bengaluru direct employer pages: 0 IT roles | Naukri verified pages: 0 IT roles",
+      "note": "Infopark page 1: 1 IT roles | Infopark page 2: 2 IT roles | Technopark: 0 IT roles | Bengaluru direct employer pages: 0 IT roles | Naukri verified pages: 0 IT roles",
       "url": "https://infopark.in/companies-job"
     }
   ]
