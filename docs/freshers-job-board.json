@@ -1,5 +1,5 @@
 {
-  "refreshedAt": "2026-07-17T11:07:41Z",
+  "refreshedAt": "2026-07-17T12:43:35Z",
   "locationPriority": [
     "Kochi",
     "Thiruvananthapuram",
@@ -7,34 +7,12 @@
   ],
   "sourcesChecked": [
     "Infopark page 1: 1 IT roles",
-    "Infopark page 2: 2 IT roles",
+    "Infopark page 2: 0 IT roles",
     "Technopark: 0 IT roles",
     "Bengaluru direct employer pages: 0 IT roles",
     "Naukri verified pages: 0 IT roles"
   ],
   "jobs": [
-    {
-      "company": "CloudHouse Technologies Pvt.Ltd",
-      "role": "PHP Developer Intern - Female Candidates",
-      "location": "Kochi",
-      "posted": "15-07-2026",
-      "apply_by": "2026-07-24",
-      "level": "Internship",
-      "source": "Infopark page 2",
-      "note": "Verified from Infopark public jobs page 2.",
-      "url": "https://infopark.in/company-jobs/details/480/24655"
-    },
-    {
-      "company": "Voyon Technology Pvt Ltd",
-      "role": "Product Support Intern",
-      "location": "Kochi",
-      "posted": "15-07-2026",
-      "apply_by": "2026-07-24",
-      "level": "Internship",
-      "source": "Infopark page 2",
-      "note": "Verified from Infopark public jobs page 2.",
-      "url": "https://infopark.in/company-jobs/details/372/24654"
-    },
     {
       "company": "2Base Technologies Pvt Ltd",
       "role": "Associate - System Engineer",
@@ -76,7 +54,7 @@
       "apply_by": "n/a",
       "level": "Source status",
       "source": "Automation",
-      "note": "Infopark page 1: 1 IT roles | Infopark page 2: 2 IT roles | Technopark: 0 IT roles | Bengaluru direct employer pages: 0 IT roles | Naukri verified pages: 0 IT roles",
+      "note": "Infopark page 1: 1 IT roles | Infopark page 2: 0 IT roles | Technopark: 0 IT roles | Bengaluru direct employer pages: 0 IT roles | Naukri verified pages: 0 IT roles",
       "url": "https://infopark.in/companies-job"
     }
   ]
