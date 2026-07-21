@@ -1,12 +1,12 @@
 {
-  "refreshedAt": "2026-07-21T04:48:58Z",
+  "refreshedAt": "2026-07-21T07:34:33Z",
   "locationPriority": [
     "Kochi",
     "Thiruvananthapuram",
     "Bengaluru"
   ],
   "sourcesChecked": [
-    "Infopark page 1: 1 IT roles",
+    "Infopark page 1: 2 IT roles",
     "Infopark page 2: 0 IT roles",
     "Technopark: 0 IT roles",
     "Bengaluru direct employer pages: 0 IT roles",
@@ -23,6 +23,17 @@
       "source": "Infopark page 1",
       "note": "Verified from Infopark public jobs page 1.",
       "url": "https://infopark.in/company-jobs/details/312/24746"
+    },
+    {
+      "company": "QC Verify Private Limited",
+      "role": "Lock Desk Analyst - Fresher",
+      "location": "Kochi",
+      "posted": "21-07-2026",
+      "apply_by": "2026-07-24",
+      "level": "Entry level",
+      "source": "Infopark page 1",
+      "note": "Verified from Infopark public jobs page 1.",
+      "url": "https://infopark.in/company-jobs/details/257/24752"
     },
     {
       "company": "Technopark public careers",
@@ -54,7 +65,7 @@
       "apply_by": "n/a",
       "level": "Source status",
       "source": "Automation",
-      "note": "Infopark page 1: 1 IT roles | Infopark page 2: 0 IT roles | Technopark: 0 IT roles | Bengaluru direct employer pages: 0 IT roles | Naukri verified pages: 0 IT roles",
+      "note": "Infopark page 1: 2 IT roles | Infopark page 2: 0 IT roles | Technopark: 0 IT roles | Bengaluru direct employer pages: 0 IT roles | Naukri verified pages: 0 IT roles",
       "url": "https://infopark.in/companies-job"
     }
   ]
