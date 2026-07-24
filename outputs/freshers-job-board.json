@@ -1,29 +1,18 @@
 {
-  "refreshedAt": "2026-07-24T07:09:28Z",
+  "refreshedAt": "2026-07-24T09:57:12Z",
   "locationPriority": [
     "Kochi",
     "Thiruvananthapuram",
     "Bengaluru"
   ],
   "sourcesChecked": [
-    "Infopark page 1: 4 IT roles",
+    "Infopark page 1: 6 IT roles",
     "Infopark page 2: 1 IT roles",
     "Technopark: 0 IT roles",
     "Bengaluru direct employer pages: 0 IT roles",
     "Naukri verified pages: 0 IT roles"
   ],
   "jobs": [
-    {
-      "company": "QC Verify Private Limited",
-      "role": "Lock Desk Analyst - Fresher",
-      "location": "Kochi",
-      "posted": "21-07-2026",
-      "apply_by": "2026-07-24",
-      "level": "Entry level",
-      "source": "Infopark page 2",
-      "note": "Verified from Infopark public jobs page 2.",
-      "url": "https://infopark.in/company-jobs/details/257/24752"
-    },
     {
       "company": "Inspite Technologies Pvt.Ltd",
       "role": "AI Video Editor Internship Opportunity \u2013 Live US Projects",
@@ -42,8 +31,8 @@
       "posted": "23-07-2026",
       "apply_by": "2026-07-31",
       "level": "Internship",
-      "source": "Infopark page 1",
-      "note": "Verified from Infopark public jobs page 1.",
+      "source": "Infopark page 2",
+      "note": "Verified from Infopark public jobs page 2.",
       "url": "https://infopark.in/company-jobs/details/442/24797"
     },
     {
@@ -67,6 +56,39 @@
       "source": "Infopark page 1",
       "note": "Verified from Infopark public jobs page 1.",
       "url": "https://infopark.in/company-jobs/details/312/24804"
+    },
+    {
+      "company": "Apro IT Solutions Pvt Ltd",
+      "role": "QC (Quality Control) Intern",
+      "location": "Kochi",
+      "posted": "24-07-2026",
+      "apply_by": "2026-08-14",
+      "level": "Internship",
+      "source": "Infopark page 1",
+      "note": "Verified from Infopark public jobs page 1.",
+      "url": "https://infopark.in/company-jobs/details/420/24817"
+    },
+    {
+      "company": "LucidPlus Infotech Pvt Ltd",
+      "role": "Management Trainee \u2013 Business Operations",
+      "location": "Kochi",
+      "posted": "24-07-2026",
+      "apply_by": "2026-08-15",
+      "level": "Trainee",
+      "source": "Infopark page 1",
+      "note": "Verified from Infopark public jobs page 1.",
+      "url": "https://infopark.in/company-jobs/details/41/24818"
+    },
+    {
+      "company": "LucidPlus Infotech Pvt Ltd",
+      "role": "Management Trainee \u2013 Project Management",
+      "location": "Kochi",
+      "posted": "24-07-2026",
+      "apply_by": "2026-08-15",
+      "level": "Trainee",
+      "source": "Infopark page 1",
+      "note": "Verified from Infopark public jobs page 1.",
+      "url": "https://infopark.in/company-jobs/details/41/24816"
     },
     {
       "company": "Technopark public careers",
@@ -98,7 +120,7 @@
       "apply_by": "n/a",
       "level": "Source status",
       "source": "Automation",
-      "note": "Infopark page 1: 4 IT roles | Infopark page 2: 1 IT roles | Technopark: 0 IT roles | Bengaluru direct employer pages: 0 IT roles | Naukri verified pages: 0 IT roles",
+      "note": "Infopark page 1: 6 IT roles | Infopark page 2: 1 IT roles | Technopark: 0 IT roles | Bengaluru direct employer pages: 0 IT roles | Naukri verified pages: 0 IT roles",
       "url": "https://infopark.in/companies-job"
     }
   ]
