@@ -1,106 +1,18 @@
 {
-  "refreshedAt": "2026-07-25T17:04:01Z",
+  "refreshedAt": "2026-07-25T18:29:36Z",
   "locationPriority": [
     "Kochi",
     "Thiruvananthapuram",
     "Bengaluru"
   ],
   "sourcesChecked": [
-    "Infopark page 1: 6 IT roles",
-    "Infopark page 2: 2 IT roles",
-    "Technopark: 0 IT roles",
+    "Infopark page 1 failed: HTTPSConnectionPool(host='infopark.in', port=443): Max retries exceeded with url: /companies-job (Caused by ConnectTimeoutError(<HTTPSConnection(host='infopark.in', port=443) at 0x7f151ffeaad0>, 'Connection to infopark.in timed out. (connect timeout=30)'))",
+    "Infopark page 2 failed: HTTPSConnectionPool(host='infopark.in', port=443): Max retries exceeded with url: /companies-job?page=2 (Caused by ConnectTimeoutError(<HTTPSConnection(host='infopark.in', port=443) at 0x7f15201429d0>, 'Connection to infopark.in timed out. (connect timeout=30)'))",
+    "Technopark failed: HTTPSConnectionPool(host='technopark.in', port=443): Max retries exceeded with url: /job-search (Caused by ConnectTimeoutError(<HTTPSConnection(host='technopark.in', port=443) at 0x7f1520024210>, 'Connection to technopark.in timed out. (connect timeout=30)'))",
     "Bengaluru direct employer pages: 0 IT roles",
     "Naukri verified pages: 0 IT roles"
   ],
   "jobs": [
-    {
-      "company": "Inspite Technologies Pvt.Ltd",
-      "role": "AI Video Editor Internship Opportunity \u2013 Live US Projects",
-      "location": "Kochi",
-      "posted": "23-07-2026",
-      "apply_by": "2026-07-31",
-      "level": "Internship",
-      "source": "Infopark page 2",
-      "note": "Verified from Infopark public jobs page 2.",
-      "url": "https://infopark.in/company-jobs/details/442/24799"
-    },
-    {
-      "company": "Inspite Technologies Pvt.Ltd",
-      "role": "AI Developer Internship Opportunity \u2013 Live US Projects",
-      "location": "Kochi",
-      "posted": "23-07-2026",
-      "apply_by": "2026-07-31",
-      "level": "Internship",
-      "source": "Infopark page 2",
-      "note": "Verified from Infopark public jobs page 2.",
-      "url": "https://infopark.in/company-jobs/details/442/24797"
-    },
-    {
-      "company": "CloudHouse Technologies Pvt.Ltd",
-      "role": "Full Stack Developer Intern",
-      "location": "Kochi",
-      "posted": "24-07-2026",
-      "apply_by": "2026-07-31",
-      "level": "Internship",
-      "source": "Infopark page 1",
-      "note": "Verified from Infopark public jobs page 1.",
-      "url": "https://infopark.in/company-jobs/details/480/24825"
-    },
-    {
-      "company": "Apro IT Solutions Pvt Ltd",
-      "role": "QC (Quality Control) Intern",
-      "location": "Kochi",
-      "posted": "24-07-2026",
-      "apply_by": "2026-08-14",
-      "level": "Internship",
-      "source": "Infopark page 1",
-      "note": "Verified from Infopark public jobs page 1.",
-      "url": "https://infopark.in/company-jobs/details/420/24817"
-    },
-    {
-      "company": "LucidPlus Infotech Pvt Ltd",
-      "role": "Management Trainee \u2013 Business Operations",
-      "location": "Kochi",
-      "posted": "24-07-2026",
-      "apply_by": "2026-08-15",
-      "level": "Trainee",
-      "source": "Infopark page 1",
-      "note": "Verified from Infopark public jobs page 1.",
-      "url": "https://infopark.in/company-jobs/details/41/24818"
-    },
-    {
-      "company": "LucidPlus Infotech Pvt Ltd",
-      "role": "Management Trainee \u2013 Project Management",
-      "location": "Kochi",
-      "posted": "24-07-2026",
-      "apply_by": "2026-08-15",
-      "level": "Trainee",
-      "source": "Infopark page 1",
-      "note": "Verified from Infopark public jobs page 1.",
-      "url": "https://infopark.in/company-jobs/details/41/24816"
-    },
-    {
-      "company": "2Base Technologies Pvt Ltd",
-      "role": "Associate - System Engineer",
-      "location": "Kochi",
-      "posted": "25-07-2026",
-      "apply_by": "2026-07-25",
-      "level": "Entry level",
-      "source": "Infopark page 1",
-      "note": "Verified from Infopark public jobs page 1.",
-      "url": "https://infopark.in/company-jobs/details/312/24829"
-    },
-    {
-      "company": "2Base Technologies Pvt Ltd",
-      "role": "Associate - QA Engineer",
-      "location": "Kochi",
-      "posted": "25-07-2026",
-      "apply_by": "2026-07-25",
-      "level": "Entry level",
-      "source": "Infopark page 1",
-      "note": "Verified from Infopark public jobs page 1.",
-      "url": "https://infopark.in/company-jobs/details/312/24827"
-    },
     {
       "company": "Technopark public careers",
       "role": "Coverage check only",
@@ -131,7 +43,7 @@
       "apply_by": "n/a",
       "level": "Source status",
       "source": "Automation",
-      "note": "Infopark page 1: 6 IT roles | Infopark page 2: 2 IT roles | Technopark: 0 IT roles | Bengaluru direct employer pages: 0 IT roles | Naukri verified pages: 0 IT roles",
+      "note": "Infopark page 1 failed: HTTPSConnectionPool(host='infopark.in', port=443): Max retries exceeded with url: /companies-job (Caused by ConnectTimeoutError(<HTTPSConnection(host='infopark.in', port=443) at 0x7f151ffeaad0>, 'Connection to infopark.in timed out. (connect timeout=30)')) | Infopark page 2 failed: HTTPSConnectionPool(host='infopark.in', port=443): Max retries exceeded with url: /companies-job?page=2 (Caused by ConnectTimeoutError(<HTTPSConnection(host='infopark.in', port=443) at 0x7f15201429d0>, 'Connection to infopark.in timed out. (connect timeout=30)')) | Technopark failed: HTTPSConnectionPool(host='technopark.in', port=443): Max retries exceeded with url: /job-search (Caused by ConnectTimeoutError(<HTTPSConnection(host='technopark.in', port=443) at 0x7f1520024210>, 'Connection to technopark.in timed out. (connect timeout=30)')) | Bengaluru direct employer pages: 0 IT roles | Naukri verified pages: 0 IT roles",
       "url": "https://infopark.in/companies-job"
     }
   ]
