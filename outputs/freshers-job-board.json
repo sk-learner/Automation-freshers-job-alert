@@ -1,18 +1,128 @@
 {
-  "refreshedAt": "2026-07-27T21:43:49Z",
+  "refreshedAt": "2026-07-27T23:07:27Z",
   "locationPriority": [
     "Kochi",
     "Thiruvananthapuram",
     "Bengaluru"
   ],
   "sourcesChecked": [
-    "Infopark page 1 failed: HTTPSConnectionPool(host='infopark.in', port=443): Max retries exceeded with url: /companies-job (Caused by ConnectTimeoutError(<HTTPSConnection(host='infopark.in', port=443) at 0x7fbdd114bed0>, 'Connection to infopark.in timed out. (connect timeout=30)'))",
-    "Infopark page 2 failed: HTTPSConnectionPool(host='infopark.in', port=443): Max retries exceeded with url: /companies-job?page=2 (Caused by ConnectTimeoutError(<HTTPSConnection(host='infopark.in', port=443) at 0x7fbdd0b22190>, 'Connection to infopark.in timed out. (connect timeout=30)'))",
-    "Technopark failed: HTTPSConnectionPool(host='technopark.in', port=443): Max retries exceeded with url: /job-search (Caused by ConnectTimeoutError(<HTTPSConnection(host='technopark.in', port=443) at 0x7fbdd0c3ec90>, 'Connection to technopark.in timed out. (connect timeout=30)'))",
+    "Infopark page 1: 5 IT roles",
+    "Infopark page 2: 5 IT roles",
+    "Technopark: 0 IT roles",
     "Bengaluru direct employer pages: 0 IT roles",
     "Naukri verified pages: 0 IT roles"
   ],
   "jobs": [
+    {
+      "company": "Inspite Technologies Pvt.Ltd",
+      "role": "AI Video Editor Internship Opportunity \u2013 Live US Projects",
+      "location": "Kochi",
+      "posted": "23-07-2026",
+      "apply_by": "2026-07-31",
+      "level": "Internship",
+      "source": "Infopark page 2",
+      "note": "Verified from Infopark public jobs page 2.",
+      "url": "https://infopark.in/company-jobs/details/442/24799"
+    },
+    {
+      "company": "Inspite Technologies Pvt.Ltd",
+      "role": "AI Developer Internship Opportunity \u2013 Live US Projects",
+      "location": "Kochi",
+      "posted": "23-07-2026",
+      "apply_by": "2026-07-31",
+      "level": "Internship",
+      "source": "Infopark page 2",
+      "note": "Verified from Infopark public jobs page 2.",
+      "url": "https://infopark.in/company-jobs/details/442/24797"
+    },
+    {
+      "company": "CloudHouse Technologies Pvt.Ltd",
+      "role": "Full Stack Developer Intern",
+      "location": "Kochi",
+      "posted": "24-07-2026",
+      "apply_by": "2026-07-31",
+      "level": "Internship",
+      "source": "Infopark page 1",
+      "note": "Verified from Infopark public jobs page 1.",
+      "url": "https://infopark.in/company-jobs/details/480/24825"
+    },
+    {
+      "company": "Apro IT Solutions Pvt Ltd",
+      "role": "QC (Quality Control) Intern",
+      "location": "Kochi",
+      "posted": "24-07-2026",
+      "apply_by": "2026-08-14",
+      "level": "Internship",
+      "source": "Infopark page 2",
+      "note": "Verified from Infopark public jobs page 2.",
+      "url": "https://infopark.in/company-jobs/details/420/24817"
+    },
+    {
+      "company": "LucidPlus Infotech Pvt Ltd",
+      "role": "Management Trainee \u2013 Business Operations",
+      "location": "Kochi",
+      "posted": "24-07-2026",
+      "apply_by": "2026-08-15",
+      "level": "Trainee",
+      "source": "Infopark page 2",
+      "note": "Verified from Infopark public jobs page 2.",
+      "url": "https://infopark.in/company-jobs/details/41/24818"
+    },
+    {
+      "company": "LucidPlus Infotech Pvt Ltd",
+      "role": "Management Trainee \u2013 Project Management",
+      "location": "Kochi",
+      "posted": "24-07-2026",
+      "apply_by": "2026-08-15",
+      "level": "Trainee",
+      "source": "Infopark page 2",
+      "note": "Verified from Infopark public jobs page 2.",
+      "url": "https://infopark.in/company-jobs/details/41/24816"
+    },
+    {
+      "company": "Aabasoft Technologies India Private Limited",
+      "role": "Operations Executive Internship",
+      "location": "Kochi",
+      "posted": "27-07-2026",
+      "apply_by": "2026-08-01",
+      "level": "Internship",
+      "source": "Infopark page 1",
+      "note": "Verified from Infopark public jobs page 1.",
+      "url": "https://infopark.in/company-jobs/details/95/24855"
+    },
+    {
+      "company": "Aabasoft Technologies India Private Limited",
+      "role": "Technical Support Internship",
+      "location": "Kochi",
+      "posted": "27-07-2026",
+      "apply_by": "2026-08-01",
+      "level": "Internship",
+      "source": "Infopark page 1",
+      "note": "Verified from Infopark public jobs page 1.",
+      "url": "https://infopark.in/company-jobs/details/95/24854"
+    },
+    {
+      "company": "Pearlsoft Technologies LLP",
+      "role": "Junior Embedded Developer",
+      "location": "Kochi",
+      "posted": "27-07-2026",
+      "apply_by": "2026-08-27",
+      "level": "Junior",
+      "source": "Infopark page 1",
+      "note": "Verified from Infopark public jobs page 1.",
+      "url": "https://infopark.in/company-jobs/details/401/24850"
+    },
+    {
+      "company": "GALTech Technologies Pvt Ltd",
+      "role": "Management Trainee",
+      "location": "Kochi",
+      "posted": "27-07-2026",
+      "apply_by": "2026-08-30",
+      "level": "Trainee",
+      "source": "Infopark page 1",
+      "note": "Verified from Infopark public jobs page 1.",
+      "url": "https://infopark.in/company-jobs/details/189/24849"
+    },
     {
       "company": "Technopark public careers",
       "role": "Coverage check only",
@@ -43,7 +153,7 @@
       "apply_by": "n/a",
       "level": "Source status",
       "source": "Automation",
-      "note": "Infopark page 1 failed: HTTPSConnectionPool(host='infopark.in', port=443): Max retries exceeded with url: /companies-job (Caused by ConnectTimeoutError(<HTTPSConnection(host='infopark.in', port=443) at 0x7fbdd114bed0>, 'Connection to infopark.in timed out. (connect timeout=30)')) | Infopark page 2 failed: HTTPSConnectionPool(host='infopark.in', port=443): Max retries exceeded with url: /companies-job?page=2 (Caused by ConnectTimeoutError(<HTTPSConnection(host='infopark.in', port=443) at 0x7fbdd0b22190>, 'Connection to infopark.in timed out. (connect timeout=30)')) | Technopark failed: HTTPSConnectionPool(host='technopark.in', port=443): Max retries exceeded with url: /job-search (Caused by ConnectTimeoutError(<HTTPSConnection(host='technopark.in', port=443) at 0x7fbdd0c3ec90>, 'Connection to technopark.in timed out. (connect timeout=30)')) | Bengaluru direct employer pages: 0 IT roles | Naukri verified pages: 0 IT roles",
+      "note": "Infopark page 1: 5 IT roles | Infopark page 2: 5 IT roles | Technopark: 0 IT roles | Bengaluru direct employer pages: 0 IT roles | Naukri verified pages: 0 IT roles",
       "url": "https://infopark.in/companies-job"
     }
   ]
