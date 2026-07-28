@@ -1,12 +1,12 @@
 {
-  "refreshedAt": "2026-07-28T18:23:39Z",
+  "refreshedAt": "2026-07-28T20:02:55Z",
   "locationPriority": [
     "Kochi",
     "Thiruvananthapuram",
     "Bengaluru"
   ],
   "sourcesChecked": [
-    "Infopark page 1: 7 IT roles",
+    "Infopark page 1: 5 IT roles",
     "Infopark page 2: 4 IT roles",
     "Technopark: 0 IT roles",
     "Bengaluru direct employer pages: 0 IT roles",
@@ -102,28 +102,6 @@
       "url": "https://infopark.in/company-jobs/details/189/24849"
     },
     {
-      "company": "2Base Technologies Pvt Ltd",
-      "role": "Associate - System Engineer",
-      "location": "Kochi",
-      "posted": "28-07-2026",
-      "apply_by": "2026-07-28",
-      "level": "Entry level",
-      "source": "Infopark page 1",
-      "note": "Verified from Infopark public jobs page 1.",
-      "url": "https://infopark.in/company-jobs/details/312/24858"
-    },
-    {
-      "company": "2Base Technologies Pvt Ltd",
-      "role": "Associate - QA Engineer",
-      "location": "Kochi",
-      "posted": "28-07-2026",
-      "apply_by": "2026-07-28",
-      "level": "Entry level",
-      "source": "Infopark page 1",
-      "note": "Verified from Infopark public jobs page 1.",
-      "url": "https://infopark.in/company-jobs/details/312/24856"
-    },
-    {
       "company": "SaNDS Lab",
       "role": "INTERNSHIP / ACADEMIC PROJECT PROGRAM FOR COLLEGE STUDENTS",
       "location": "Kochi",
@@ -164,7 +142,7 @@
       "apply_by": "n/a",
       "level": "Source status",
       "source": "Automation",
-      "note": "Infopark page 1: 7 IT roles | Infopark page 2: 4 IT roles | Technopark: 0 IT roles | Bengaluru direct employer pages: 0 IT roles | Naukri verified pages: 0 IT roles",
+      "note": "Infopark page 1: 5 IT roles | Infopark page 2: 4 IT roles | Technopark: 0 IT roles | Bengaluru direct employer pages: 0 IT roles | Naukri verified pages: 0 IT roles",
       "url": "https://infopark.in/companies-job"
     }
   ]
