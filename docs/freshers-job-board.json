@@ -1,40 +1,18 @@
 {
-  "refreshedAt": "2026-07-28T04:17:08Z",
+  "refreshedAt": "2026-07-28T07:16:29Z",
   "locationPriority": [
     "Kochi",
     "Thiruvananthapuram",
     "Bengaluru"
   ],
   "sourcesChecked": [
-    "Infopark page 1: 6 IT roles",
-    "Infopark page 2: 5 IT roles",
+    "Infopark page 1: 7 IT roles",
+    "Infopark page 2: 4 IT roles",
     "Technopark: 0 IT roles",
     "Bengaluru direct employer pages: 0 IT roles",
     "Naukri verified pages: 0 IT roles"
   ],
   "jobs": [
-    {
-      "company": "Inspite Technologies Pvt.Ltd",
-      "role": "AI Video Editor Internship Opportunity \u2013 Live US Projects",
-      "location": "Kochi",
-      "posted": "23-07-2026",
-      "apply_by": "2026-07-31",
-      "level": "Internship",
-      "source": "Infopark page 2",
-      "note": "Verified from Infopark public jobs page 2.",
-      "url": "https://infopark.in/company-jobs/details/442/24799"
-    },
-    {
-      "company": "Inspite Technologies Pvt.Ltd",
-      "role": "AI Developer Internship Opportunity \u2013 Live US Projects",
-      "location": "Kochi",
-      "posted": "23-07-2026",
-      "apply_by": "2026-07-31",
-      "level": "Internship",
-      "source": "Infopark page 2",
-      "note": "Verified from Infopark public jobs page 2.",
-      "url": "https://infopark.in/company-jobs/details/442/24797"
-    },
     {
       "company": "CloudHouse Technologies Pvt.Ltd",
       "role": "Full Stack Developer Intern",
@@ -42,8 +20,8 @@
       "posted": "24-07-2026",
       "apply_by": "2026-07-31",
       "level": "Internship",
-      "source": "Infopark page 1",
-      "note": "Verified from Infopark public jobs page 1.",
+      "source": "Infopark page 2",
+      "note": "Verified from Infopark public jobs page 2.",
       "url": "https://infopark.in/company-jobs/details/480/24825"
     },
     {
@@ -125,6 +103,17 @@
     },
     {
       "company": "2Base Technologies Pvt Ltd",
+      "role": "Associate - System Engineer",
+      "location": "Kochi",
+      "posted": "28-07-2026",
+      "apply_by": "2026-07-28",
+      "level": "Entry level",
+      "source": "Infopark page 1",
+      "note": "Verified from Infopark public jobs page 1.",
+      "url": "https://infopark.in/company-jobs/details/312/24858"
+    },
+    {
+      "company": "2Base Technologies Pvt Ltd",
       "role": "Associate - QA Engineer",
       "location": "Kochi",
       "posted": "28-07-2026",
@@ -133,6 +122,17 @@
       "source": "Infopark page 1",
       "note": "Verified from Infopark public jobs page 1.",
       "url": "https://infopark.in/company-jobs/details/312/24856"
+    },
+    {
+      "company": "SaNDS Lab",
+      "role": "INTERNSHIP / ACADEMIC PROJECT PROGRAM FOR COLLEGE STUDENTS",
+      "location": "Kochi",
+      "posted": "28-07-2026",
+      "apply_by": "2026-08-31",
+      "level": "Internship",
+      "source": "Infopark page 1",
+      "note": "Verified from Infopark public jobs page 1.",
+      "url": "https://infopark.in/company-jobs/details/39/24861"
     },
     {
       "company": "Technopark public careers",
@@ -164,7 +164,7 @@
       "apply_by": "n/a",
       "level": "Source status",
       "source": "Automation",
-      "note": "Infopark page 1: 6 IT roles | Infopark page 2: 5 IT roles | Technopark: 0 IT roles | Bengaluru direct employer pages: 0 IT roles | Naukri verified pages: 0 IT roles",
+      "note": "Infopark page 1: 7 IT roles | Infopark page 2: 4 IT roles | Technopark: 0 IT roles | Bengaluru direct employer pages: 0 IT roles | Naukri verified pages: 0 IT roles",
       "url": "https://infopark.in/companies-job"
     }
   ]
