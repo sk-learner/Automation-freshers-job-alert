@@ -1,12 +1,12 @@
 {
-  "refreshedAt": "2026-08-04T04:45:13Z",
+  "refreshedAt": "2026-08-04T07:42:35Z",
   "locationPriority": [
     "Kochi",
     "Thiruvananthapuram",
     "Bengaluru"
   ],
   "sourcesChecked": [
-    "Infopark page 1: 5 IT roles",
+    "Infopark page 1: 4 IT roles",
     "Infopark page 2: 4 IT roles",
     "Technopark: 0 IT roles",
     "Bengaluru direct employer pages: 0 IT roles",
@@ -20,9 +20,20 @@
       "posted": "01-08-2026",
       "apply_by": "2026-08-10",
       "level": "Trainee",
-      "source": "Infopark page 1",
-      "note": "Verified from Infopark public jobs page 1.",
+      "source": "Infopark page 2",
+      "note": "Verified from Infopark public jobs page 2.",
       "url": "https://infopark.in/company-jobs/details/530/24929"
+    },
+    {
+      "company": "Aabasoft Technologies India Private Limited",
+      "role": "Internship \u2013 Product Consultant",
+      "location": "Kochi",
+      "posted": "01-08-2026",
+      "apply_by": "2026-08-14",
+      "level": "Internship",
+      "source": "Infopark page 2",
+      "note": "Verified from Infopark public jobs page 2.",
+      "url": "https://infopark.in/company-jobs/details/95/24927"
     },
     {
       "company": "Flycatch Infotech Pvt. Ltd.",
@@ -80,28 +91,6 @@
       "url": "https://infopark.in/company-jobs/details/420/24903"
     },
     {
-      "company": "Fingent Global Solutions",
-      "role": "Junior DevOps Engineer/DevOps Engineer.",
-      "location": "Kochi",
-      "posted": "30-07-2026",
-      "apply_by": "2026-08-29",
-      "level": "Junior",
-      "source": "Infopark page 2",
-      "note": "Verified from Infopark public jobs page 2.",
-      "url": "https://infopark.in/company-jobs/details/83/24899"
-    },
-    {
-      "company": "Seguro Technologies",
-      "role": "Junior Asp.net Developers",
-      "location": "Kochi",
-      "posted": "30-07-2026",
-      "apply_by": "2026-08-31",
-      "level": "Junior",
-      "source": "Infopark page 2",
-      "note": "Verified from Infopark public jobs page 2.",
-      "url": "https://infopark.in/company-jobs/details/234/24900"
-    },
-    {
       "company": "FDC Web Technologies Pvt Ltd",
       "role": "OFFICE ADMINISTRATOR INTERN",
       "location": "Kochi",
@@ -142,7 +131,7 @@
       "apply_by": "n/a",
       "level": "Source status",
       "source": "Automation",
-      "note": "Infopark page 1: 5 IT roles | Infopark page 2: 4 IT roles | Technopark: 0 IT roles | Bengaluru direct employer pages: 0 IT roles | Naukri verified pages: 0 IT roles",
+      "note": "Infopark page 1: 4 IT roles | Infopark page 2: 4 IT roles | Technopark: 0 IT roles | Bengaluru direct employer pages: 0 IT roles | Naukri verified pages: 0 IT roles",
       "url": "https://infopark.in/companies-job"
     }
   ]
