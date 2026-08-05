@@ -1,5 +1,5 @@
 {
-  "refreshedAt": "2026-08-05T18:24:14Z",
+  "refreshedAt": "2026-08-05T20:09:34Z",
   "locationPriority": [
     "Kochi",
     "Thiruvananthapuram",
@@ -7,12 +7,23 @@
   ],
   "sourcesChecked": [
     "Infopark page 1: 1 IT roles",
-    "Infopark page 2: 3 IT roles",
+    "Infopark page 2: 2 IT roles",
     "Technopark: 0 IT roles",
     "Bengaluru direct employer pages: 0 IT roles",
     "Naukri verified pages: 0 IT roles"
   ],
   "jobs": [
+    {
+      "company": "Flycatch Infotech Pvt. Ltd.",
+      "role": "Junior Data Engineer",
+      "location": "Kochi",
+      "posted": "03-08-2026",
+      "apply_by": "2026-08-10",
+      "level": "Junior",
+      "source": "Infopark page 2",
+      "note": "Verified from Infopark public jobs page 2.",
+      "url": "https://infopark.in/company-jobs/details/525/24938"
+    },
     {
       "company": "Feathersoft Info Solutions Private Ltd",
       "role": "Apprenticeship Opportunity for Diploma/ B tech Students- Managed Services",
@@ -23,28 +34,6 @@
       "source": "Infopark page 2",
       "note": "Verified from Infopark public jobs page 2.",
       "url": "https://infopark.in/company-jobs/details/269/24944"
-    },
-    {
-      "company": "2Base Technologies Pvt Ltd",
-      "role": "Associate - System Engineer",
-      "location": "Kochi",
-      "posted": "05-08-2026",
-      "apply_by": "2026-08-05",
-      "level": "Entry level",
-      "source": "Infopark page 2",
-      "note": "Verified from Infopark public jobs page 2.",
-      "url": "https://infopark.in/company-jobs/details/312/24968"
-    },
-    {
-      "company": "2Base Technologies Pvt Ltd",
-      "role": "Associate - QA Engineer",
-      "location": "Kochi",
-      "posted": "05-08-2026",
-      "apply_by": "2026-08-05",
-      "level": "Entry level",
-      "source": "Infopark page 2",
-      "note": "Verified from Infopark public jobs page 2.",
-      "url": "https://infopark.in/company-jobs/details/312/24966"
     },
     {
       "company": "Speridian Technologies Pvt Ltd",
@@ -87,7 +76,7 @@
       "apply_by": "n/a",
       "level": "Source status",
       "source": "Automation",
-      "note": "Infopark page 1: 1 IT roles | Infopark page 2: 3 IT roles | Technopark: 0 IT roles | Bengaluru direct employer pages: 0 IT roles | Naukri verified pages: 0 IT roles",
+      "note": "Infopark page 1: 1 IT roles | Infopark page 2: 2 IT roles | Technopark: 0 IT roles | Bengaluru direct employer pages: 0 IT roles | Naukri verified pages: 0 IT roles",
       "url": "https://infopark.in/companies-job"
     }
   ]
