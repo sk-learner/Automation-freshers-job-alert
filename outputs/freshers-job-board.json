@@ -1,5 +1,5 @@
 {
-  "refreshedAt": "2026-08-05T00:08:17Z",
+  "refreshedAt": "2026-08-05T03:45:11Z",
   "locationPriority": [
     "Kochi",
     "Thiruvananthapuram",
@@ -7,7 +7,7 @@
   ],
   "sourcesChecked": [
     "Infopark page 1: 2 IT roles",
-    "Infopark page 2: 4 IT roles",
+    "Infopark page 2: 3 IT roles",
     "Technopark: 0 IT roles",
     "Bengaluru direct employer pages: 0 IT roles",
     "Naukri verified pages: 0 IT roles"
@@ -58,17 +58,6 @@
       "url": "https://infopark.in/company-jobs/details/269/24944"
     },
     {
-      "company": "Apro IT Solutions Pvt Ltd",
-      "role": "Associate Backend Developer",
-      "location": "Kochi",
-      "posted": "30-07-2026",
-      "apply_by": "2026-08-21",
-      "level": "Entry level",
-      "source": "Infopark page 2",
-      "note": "Verified from Infopark public jobs page 2.",
-      "url": "https://infopark.in/company-jobs/details/420/24903"
-    },
-    {
       "company": "FDC Web Technologies Pvt Ltd",
       "role": "OFFICE ADMINISTRATOR INTERN",
       "location": "Kochi",
@@ -109,7 +98,7 @@
       "apply_by": "n/a",
       "level": "Source status",
       "source": "Automation",
-      "note": "Infopark page 1: 2 IT roles | Infopark page 2: 4 IT roles | Technopark: 0 IT roles | Bengaluru direct employer pages: 0 IT roles | Naukri verified pages: 0 IT roles",
+      "note": "Infopark page 1: 2 IT roles | Infopark page 2: 3 IT roles | Technopark: 0 IT roles | Bengaluru direct employer pages: 0 IT roles | Naukri verified pages: 0 IT roles",
       "url": "https://infopark.in/companies-job"
     }
   ]
