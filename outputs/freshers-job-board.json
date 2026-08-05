@@ -1,5 +1,5 @@
 {
-  "refreshedAt": "2026-08-05T06:32:19Z",
+  "refreshedAt": "2026-08-05T09:39:05Z",
   "locationPriority": [
     "Kochi",
     "Thiruvananthapuram",
@@ -13,17 +13,6 @@
     "Naukri verified pages: 0 IT roles"
   ],
   "jobs": [
-    {
-      "company": "Nesa Software Pvt Ltd",
-      "role": "Embedded Trainee",
-      "location": "Kochi",
-      "posted": "01-08-2026",
-      "apply_by": "2026-08-10",
-      "level": "Trainee",
-      "source": "Infopark page 2",
-      "note": "Verified from Infopark public jobs page 2.",
-      "url": "https://infopark.in/company-jobs/details/530/24929"
-    },
     {
       "company": "Flycatch Infotech Pvt. Ltd.",
       "role": "Junior Data Engineer",
@@ -45,6 +34,17 @@
       "source": "Infopark page 2",
       "note": "Verified from Infopark public jobs page 2.",
       "url": "https://infopark.in/company-jobs/details/269/24944"
+    },
+    {
+      "company": "Roberts Design Services",
+      "role": "JUNIOR MEP BIM MODELER",
+      "location": "Kochi",
+      "posted": "04-08-2026",
+      "apply_by": "2026-08-21",
+      "level": "Junior",
+      "source": "Infopark page 2",
+      "note": "Verified from Infopark public jobs page 2.",
+      "url": "https://infopark.in/company-jobs/details/218/24955"
     },
     {
       "company": "2Base Technologies Pvt Ltd",
