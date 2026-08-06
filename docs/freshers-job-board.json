@@ -1,40 +1,18 @@
 {
-  "refreshedAt": "2026-08-06T04:16:06Z",
+  "refreshedAt": "2026-08-06T07:17:10Z",
   "locationPriority": [
     "Kochi",
     "Thiruvananthapuram",
     "Bengaluru"
   ],
   "sourcesChecked": [
-    "Infopark page 1: 1 IT roles",
-    "Infopark page 2: 2 IT roles",
+    "Infopark page 1: 2 IT roles",
+    "Infopark page 2: 1 IT roles",
     "Technopark: 0 IT roles",
     "Bengaluru direct employer pages: 0 IT roles",
     "Naukri verified pages: 0 IT roles"
   ],
   "jobs": [
-    {
-      "company": "Flycatch Infotech Pvt. Ltd.",
-      "role": "Junior Data Engineer",
-      "location": "Kochi",
-      "posted": "03-08-2026",
-      "apply_by": "2026-08-10",
-      "level": "Junior",
-      "source": "Infopark page 2",
-      "note": "Verified from Infopark public jobs page 2.",
-      "url": "https://infopark.in/company-jobs/details/525/24938"
-    },
-    {
-      "company": "Feathersoft Info Solutions Private Ltd",
-      "role": "Apprenticeship Opportunity for Diploma/ B tech Students- Managed Services",
-      "location": "Kochi",
-      "posted": "03-08-2026",
-      "apply_by": "2026-09-30",
-      "level": "Apprenticeship",
-      "source": "Infopark page 2",
-      "note": "Verified from Infopark public jobs page 2.",
-      "url": "https://infopark.in/company-jobs/details/269/24944"
-    },
     {
       "company": "Speridian Technologies Pvt Ltd",
       "role": "Customer Experience Associate - International Voice Process",
@@ -42,9 +20,31 @@
       "posted": "05-08-2026",
       "apply_by": "2026-08-20",
       "level": "Internship",
+      "source": "Infopark page 2",
+      "note": "Verified from Infopark public jobs page 2.",
+      "url": "https://infopark.in/company-jobs/details/142/24975"
+    },
+    {
+      "company": "2Base Technologies Pvt Ltd",
+      "role": "Associate - System Engineer",
+      "location": "Kochi",
+      "posted": "06-08-2026",
+      "apply_by": "2026-08-06",
+      "level": "Entry level",
       "source": "Infopark page 1",
       "note": "Verified from Infopark public jobs page 1.",
-      "url": "https://infopark.in/company-jobs/details/142/24975"
+      "url": "https://infopark.in/company-jobs/details/312/24993"
+    },
+    {
+      "company": "2Base Technologies Pvt Ltd",
+      "role": "Associate - QA Engineer",
+      "location": "Kochi",
+      "posted": "06-08-2026",
+      "apply_by": "2026-08-06",
+      "level": "Entry level",
+      "source": "Infopark page 1",
+      "note": "Verified from Infopark public jobs page 1.",
+      "url": "https://infopark.in/company-jobs/details/312/24991"
     },
     {
       "company": "Technopark public careers",
@@ -76,7 +76,7 @@
       "apply_by": "n/a",
       "level": "Source status",
       "source": "Automation",
-      "note": "Infopark page 1: 1 IT roles | Infopark page 2: 2 IT roles | Technopark: 0 IT roles | Bengaluru direct employer pages: 0 IT roles | Naukri verified pages: 0 IT roles",
+      "note": "Infopark page 1: 2 IT roles | Infopark page 2: 1 IT roles | Technopark: 0 IT roles | Bengaluru direct employer pages: 0 IT roles | Naukri verified pages: 0 IT roles",
       "url": "https://infopark.in/companies-job"
     }
   ]
