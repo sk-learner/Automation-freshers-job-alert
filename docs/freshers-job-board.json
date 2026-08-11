@@ -1,5 +1,5 @@
 {
-  "refreshedAt": "2026-08-11T18:28:46Z",
+  "refreshedAt": "2026-08-11T19:39:40Z",
   "locationPriority": [
     "Kochi",
     "Thiruvananthapuram",
@@ -14,26 +14,26 @@
   ],
   "jobs": [
     {
+      "company": "Speridian Technologies Pvt Ltd",
+      "role": "Customer Experience Associate - International Voice Process",
+      "location": "Kochi",
+      "posted": "05-08-2026",
+      "apply_by": "2026-08-20",
+      "level": "Internship",
+      "source": "Infopark page 2",
+      "note": "Verified from Infopark public jobs page 2.",
+      "url": "https://infopark.in/company-jobs/details/142/24975"
+    },
+    {
       "company": "Nesa Software Pvt Ltd",
       "role": "DevOps Engineer - Fresher",
       "location": "Kochi",
       "posted": "06-08-2026",
       "apply_by": "2026-08-20",
       "level": "Entry level",
-      "source": "Infopark page 2",
-      "note": "Verified from Infopark public jobs page 2.",
-      "url": "https://infopark.in/company-jobs/details/530/25007"
-    },
-    {
-      "company": "2Base Technologies Pvt Ltd",
-      "role": "Associate - System Engineer",
-      "location": "Kochi",
-      "posted": "11-08-2026",
-      "apply_by": "2026-08-11",
-      "level": "Entry level",
       "source": "Infopark page 1",
       "note": "Verified from Infopark public jobs page 1.",
-      "url": "https://infopark.in/company-jobs/details/312/25034"
+      "url": "https://infopark.in/company-jobs/details/530/25007"
     },
     {
       "company": "Technopark public careers",
