@@ -1,12 +1,12 @@
 {
-  "refreshedAt": "2026-08-12T05:58:12Z",
+  "refreshedAt": "2026-08-12T07:44:15Z",
   "locationPriority": [
     "Kochi",
     "Thiruvananthapuram",
     "Bengaluru"
   ],
   "sourcesChecked": [
-    "Infopark page 1: 2 IT roles",
+    "Infopark page 1: 3 IT roles",
     "Infopark page 2: 1 IT roles",
     "Technopark: 0 IT roles",
     "Bengaluru direct employer pages: 0 IT roles",
@@ -47,6 +47,17 @@
       "url": "https://infopark.in/company-jobs/details/312/25046"
     },
     {
+      "company": "NewAgeSys Solutions (P) Ltd.",
+      "role": "Website QA Engineer Intern",
+      "location": "Kochi",
+      "posted": "12-08-2026",
+      "apply_by": "2026-08-13",
+      "level": "Internship",
+      "source": "Infopark page 1",
+      "note": "Verified from Infopark public jobs page 1.",
+      "url": "https://infopark.in/company-jobs/details/109/25055"
+    },
+    {
       "company": "Technopark public careers",
       "role": "Coverage check only",
       "location": "Watchlist",
@@ -76,7 +87,7 @@
       "apply_by": "n/a",
       "level": "Source status",
       "source": "Automation",
-      "note": "Infopark page 1: 2 IT roles | Infopark page 2: 1 IT roles | Technopark: 0 IT roles | Bengaluru direct employer pages: 0 IT roles | Naukri verified pages: 0 IT roles",
+      "note": "Infopark page 1: 3 IT roles | Infopark page 2: 1 IT roles | Technopark: 0 IT roles | Bengaluru direct employer pages: 0 IT roles | Naukri verified pages: 0 IT roles",
       "url": "https://infopark.in/companies-job"
     }
   ]
