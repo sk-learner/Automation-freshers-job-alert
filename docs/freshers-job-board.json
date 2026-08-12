@@ -1,12 +1,12 @@
 {
-  "refreshedAt": "2026-08-12T04:22:53Z",
+  "refreshedAt": "2026-08-12T05:58:12Z",
   "locationPriority": [
     "Kochi",
     "Thiruvananthapuram",
     "Bengaluru"
   ],
   "sourcesChecked": [
-    "Infopark page 1: 1 IT roles",
+    "Infopark page 1: 2 IT roles",
     "Infopark page 2: 1 IT roles",
     "Technopark: 0 IT roles",
     "Bengaluru direct employer pages: 0 IT roles",
@@ -14,26 +14,37 @@
   ],
   "jobs": [
     {
-      "company": "Speridian Technologies Pvt Ltd",
-      "role": "Customer Experience Associate - International Voice Process",
-      "location": "Kochi",
-      "posted": "05-08-2026",
-      "apply_by": "2026-08-20",
-      "level": "Internship",
-      "source": "Infopark page 2",
-      "note": "Verified from Infopark public jobs page 2.",
-      "url": "https://infopark.in/company-jobs/details/142/24975"
-    },
-    {
       "company": "Nesa Software Pvt Ltd",
       "role": "DevOps Engineer - Fresher",
       "location": "Kochi",
       "posted": "06-08-2026",
       "apply_by": "2026-08-20",
       "level": "Entry level",
+      "source": "Infopark page 2",
+      "note": "Verified from Infopark public jobs page 2.",
+      "url": "https://infopark.in/company-jobs/details/530/25007"
+    },
+    {
+      "company": "2Base Technologies Pvt Ltd",
+      "role": "Associate - QA Engineer",
+      "location": "Kochi",
+      "posted": "12-08-2026",
+      "apply_by": "2026-08-12",
+      "level": "Entry level",
       "source": "Infopark page 1",
       "note": "Verified from Infopark public jobs page 1.",
-      "url": "https://infopark.in/company-jobs/details/530/25007"
+      "url": "https://infopark.in/company-jobs/details/312/25048"
+    },
+    {
+      "company": "2Base Technologies Pvt Ltd",
+      "role": "Associate - System Engineer",
+      "location": "Kochi",
+      "posted": "12-08-2026",
+      "apply_by": "2026-08-12",
+      "level": "Entry level",
+      "source": "Infopark page 1",
+      "note": "Verified from Infopark public jobs page 1.",
+      "url": "https://infopark.in/company-jobs/details/312/25046"
     },
     {
       "company": "Technopark public careers",
@@ -65,7 +76,7 @@
       "apply_by": "n/a",
       "level": "Source status",
       "source": "Automation",
-      "note": "Infopark page 1: 1 IT roles | Infopark page 2: 1 IT roles | Technopark: 0 IT roles | Bengaluru direct employer pages: 0 IT roles | Naukri verified pages: 0 IT roles",
+      "note": "Infopark page 1: 2 IT roles | Infopark page 2: 1 IT roles | Technopark: 0 IT roles | Bengaluru direct employer pages: 0 IT roles | Naukri verified pages: 0 IT roles",
       "url": "https://infopark.in/companies-job"
     }
   ]
