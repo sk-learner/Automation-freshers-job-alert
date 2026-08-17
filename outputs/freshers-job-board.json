@@ -1,13 +1,13 @@
 {
-  "refreshedAt": "2026-08-17T05:10:00Z",
+  "refreshedAt": "2026-08-17T06:01:10Z",
   "locationPriority": [
     "Kochi",
     "Thiruvananthapuram",
     "Bengaluru"
   ],
   "sourcesChecked": [
-    "Infopark page 1: 5 IT roles",
-    "Infopark page 2: 0 IT roles",
+    "Infopark page 1: 4 IT roles",
+    "Infopark page 2: 1 IT roles",
     "Technopark: 0 IT roles",
     "Bengaluru direct employer pages: 0 IT roles",
     "Naukri verified pages: 0 IT roles"
@@ -20,8 +20,8 @@
       "posted": "14-08-2026",
       "apply_by": "2026-08-21",
       "level": "Internship",
-      "source": "Infopark page 1",
-      "note": "Verified from Infopark public jobs page 1.",
+      "source": "Infopark page 2",
+      "note": "Verified from Infopark public jobs page 2.",
       "url": "https://infopark.in/company-jobs/details/542/25073"
     },
     {
@@ -98,7 +98,7 @@
       "apply_by": "n/a",
       "level": "Source status",
       "source": "Automation",
-      "note": "Infopark page 1: 5 IT roles | Infopark page 2: 0 IT roles | Technopark: 0 IT roles | Bengaluru direct employer pages: 0 IT roles | Naukri verified pages: 0 IT roles",
+      "note": "Infopark page 1: 4 IT roles | Infopark page 2: 1 IT roles | Technopark: 0 IT roles | Bengaluru direct employer pages: 0 IT roles | Naukri verified pages: 0 IT roles",
       "url": "https://infopark.in/companies-job"
     }
   ]
