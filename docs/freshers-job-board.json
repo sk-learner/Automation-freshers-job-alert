@@ -1,13 +1,13 @@
 {
-  "refreshedAt": "2026-08-17T06:01:10Z",
+  "refreshedAt": "2026-08-17T07:33:32Z",
   "locationPriority": [
     "Kochi",
     "Thiruvananthapuram",
     "Bengaluru"
   ],
   "sourcesChecked": [
-    "Infopark page 1: 4 IT roles",
-    "Infopark page 2: 1 IT roles",
+    "Infopark page 1: 3 IT roles",
+    "Infopark page 2: 3 IT roles",
     "Technopark: 0 IT roles",
     "Bengaluru direct employer pages: 0 IT roles",
     "Naukri verified pages: 0 IT roles"
@@ -31,8 +31,8 @@
       "posted": "14-08-2026",
       "apply_by": "2026-09-02",
       "level": "Internship",
-      "source": "Infopark page 1",
-      "note": "Verified from Infopark public jobs page 1.",
+      "source": "Infopark page 2",
+      "note": "Verified from Infopark public jobs page 2.",
       "url": "https://infopark.in/company-jobs/details/3/25080"
     },
     {
@@ -42,8 +42,8 @@
       "posted": "14-08-2026",
       "apply_by": "2026-09-30",
       "level": "Internship",
-      "source": "Infopark page 1",
-      "note": "Verified from Infopark public jobs page 1.",
+      "source": "Infopark page 2",
+      "note": "Verified from Infopark public jobs page 2.",
       "url": "https://infopark.in/company-jobs/details/62/25079"
     },
     {
@@ -67,6 +67,17 @@
       "source": "Infopark page 1",
       "note": "Verified from Infopark public jobs page 1.",
       "url": "https://infopark.in/company-jobs/details/312/25089"
+    },
+    {
+      "company": "Zapare Technologies Private Limited",
+      "role": "Trainee Process Associate",
+      "location": "Kochi",
+      "posted": "17-08-2026",
+      "apply_by": "2026-08-17",
+      "level": "Trainee",
+      "source": "Infopark page 1",
+      "note": "Verified from Infopark public jobs page 1.",
+      "url": "https://infopark.in/company-jobs/details/137/25099"
     },
     {
       "company": "Technopark public careers",
@@ -98,7 +109,7 @@
       "apply_by": "n/a",
       "level": "Source status",
       "source": "Automation",
-      "note": "Infopark page 1: 4 IT roles | Infopark page 2: 1 IT roles | Technopark: 0 IT roles | Bengaluru direct employer pages: 0 IT roles | Naukri verified pages: 0 IT roles",
+      "note": "Infopark page 1: 3 IT roles | Infopark page 2: 3 IT roles | Technopark: 0 IT roles | Bengaluru direct employer pages: 0 IT roles | Naukri verified pages: 0 IT roles",
       "url": "https://infopark.in/companies-job"
     }
   ]
