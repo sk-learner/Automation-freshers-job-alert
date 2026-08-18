@@ -1,29 +1,18 @@
 {
-  "refreshedAt": "2026-08-18T07:41:15Z",
+  "refreshedAt": "2026-08-18T08:41:57Z",
   "locationPriority": [
     "Kochi",
     "Thiruvananthapuram",
     "Bengaluru"
   ],
   "sourcesChecked": [
-    "Infopark page 1: 3 IT roles",
-    "Infopark page 2: 3 IT roles",
+    "Infopark page 1: 4 IT roles",
+    "Infopark page 2: 2 IT roles",
     "Technopark: 0 IT roles",
     "Bengaluru direct employer pages: 0 IT roles",
     "Naukri verified pages: 0 IT roles"
   ],
   "jobs": [
-    {
-      "company": "Lisbell Technologies Pvt Ltd",
-      "role": "AI Intern",
-      "location": "Kochi",
-      "posted": "14-08-2026",
-      "apply_by": "2026-08-21",
-      "level": "Internship",
-      "source": "Infopark page 2",
-      "note": "Verified from Infopark public jobs page 2.",
-      "url": "https://infopark.in/company-jobs/details/542/25073"
-    },
     {
       "company": "Armia Systems Pvt. Ltd",
       "role": "INTERNSHIP- WALK-IN INTERVIEW RHCE Certified Linux System Engineer (Fresher) @02nd September 2026",
@@ -80,6 +69,17 @@
       "url": "https://infopark.in/company-jobs/details/312/25114"
     },
     {
+      "company": "Penguin Data Centre Pvt.Ltd.",
+      "role": "Jr. QA Engineer \u2013 Apprentice",
+      "location": "Kochi",
+      "posted": "18-08-2026",
+      "apply_by": "2026-09-05",
+      "level": "Apprenticeship",
+      "source": "Infopark page 1",
+      "note": "Verified from Infopark public jobs page 1.",
+      "url": "https://infopark.in/company-jobs/details/171/25123"
+    },
+    {
       "company": "Technopark public careers",
       "role": "Coverage check only",
       "location": "Watchlist",
@@ -109,7 +109,7 @@
       "apply_by": "n/a",
       "level": "Source status",
       "source": "Automation",
-      "note": "Infopark page 1: 3 IT roles | Infopark page 2: 3 IT roles | Technopark: 0 IT roles | Bengaluru direct employer pages: 0 IT roles | Naukri verified pages: 0 IT roles",
+      "note": "Infopark page 1: 4 IT roles | Infopark page 2: 2 IT roles | Technopark: 0 IT roles | Bengaluru direct employer pages: 0 IT roles | Naukri verified pages: 0 IT roles",
       "url": "https://infopark.in/companies-job"
     }
   ]
