@@ -1,5 +1,5 @@
 {
-  "refreshedAt": "2026-08-21T13:50:31Z",
+  "refreshedAt": "2026-08-21T14:39:35Z",
   "locationPriority": [
     "Kochi",
     "Thiruvananthapuram",
@@ -7,12 +7,23 @@
   ],
   "sourcesChecked": [
     "Infopark page 1: 0 IT roles",
-    "Infopark page 2: 3 IT roles",
+    "Infopark page 2: 4 IT roles",
     "Technopark: 0 IT roles",
     "Bengaluru direct employer pages: 0 IT roles",
     "Naukri verified pages: 0 IT roles"
   ],
   "jobs": [
+    {
+      "company": "Zapare Technologies Private Limited",
+      "role": "Trainee - Medical Billing",
+      "location": "Kochi",
+      "posted": "17-08-2026",
+      "apply_by": "2026-08-23",
+      "level": "Trainee",
+      "source": "Infopark page 2",
+      "note": "Verified from Infopark public jobs page 2.",
+      "url": "https://infopark.in/company-jobs/details/137/25110"
+    },
     {
       "company": "Orestes Technologies Pvt Ltd",
       "role": "Junior Content Writer",
@@ -76,7 +87,7 @@
       "apply_by": "n/a",
       "level": "Source status",
       "source": "Automation",
-      "note": "Infopark page 1: 0 IT roles | Infopark page 2: 3 IT roles | Technopark: 0 IT roles | Bengaluru direct employer pages: 0 IT roles | Naukri verified pages: 0 IT roles",
+      "note": "Infopark page 1: 0 IT roles | Infopark page 2: 4 IT roles | Technopark: 0 IT roles | Bengaluru direct employer pages: 0 IT roles | Naukri verified pages: 0 IT roles",
       "url": "https://infopark.in/companies-job"
     }
   ]
