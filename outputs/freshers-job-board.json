@@ -1,12 +1,12 @@
 {
-  "refreshedAt": "2026-08-24T03:07:37Z",
+  "refreshedAt": "2026-08-24T04:22:00Z",
   "locationPriority": [
     "Kochi",
     "Thiruvananthapuram",
     "Bengaluru"
   ],
   "sourcesChecked": [
-    "Infopark page 1: 0 IT roles",
+    "Infopark page 1: 1 IT roles",
     "Infopark page 2: 2 IT roles",
     "Technopark: 0 IT roles",
     "Bengaluru direct employer pages: 0 IT roles",
@@ -34,6 +34,17 @@
       "source": "Infopark page 2",
       "note": "Verified from Infopark public jobs page 2.",
       "url": "https://infopark.in/company-jobs/details/171/25123"
+    },
+    {
+      "company": "2Base Technologies Pvt Ltd",
+      "role": "Associate - QA Engineer",
+      "location": "Kochi",
+      "posted": "24-08-2026",
+      "apply_by": "2026-08-24",
+      "level": "Entry level",
+      "source": "Infopark page 1",
+      "note": "Verified from Infopark public jobs page 1.",
+      "url": "https://infopark.in/company-jobs/details/312/25169"
     },
     {
       "company": "Technopark public careers",
@@ -65,7 +76,7 @@
       "apply_by": "n/a",
       "level": "Source status",
       "source": "Automation",
-      "note": "Infopark page 1: 0 IT roles | Infopark page 2: 2 IT roles | Technopark: 0 IT roles | Bengaluru direct employer pages: 0 IT roles | Naukri verified pages: 0 IT roles",
+      "note": "Infopark page 1: 1 IT roles | Infopark page 2: 2 IT roles | Technopark: 0 IT roles | Bengaluru direct employer pages: 0 IT roles | Naukri verified pages: 0 IT roles",
       "url": "https://infopark.in/companies-job"
     }
   ]
