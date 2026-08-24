@@ -1,29 +1,18 @@
 {
-  "refreshedAt": "2026-08-24T04:22:00Z",
+  "refreshedAt": "2026-08-24T05:18:59Z",
   "locationPriority": [
     "Kochi",
     "Thiruvananthapuram",
     "Bengaluru"
   ],
   "sourcesChecked": [
-    "Infopark page 1: 1 IT roles",
-    "Infopark page 2: 2 IT roles",
+    "Infopark page 1: 2 IT roles",
+    "Infopark page 2: 1 IT roles",
     "Technopark: 0 IT roles",
     "Bengaluru direct employer pages: 0 IT roles",
     "Naukri verified pages: 0 IT roles"
   ],
   "jobs": [
-    {
-      "company": "Orestes Technologies Pvt Ltd",
-      "role": "Junior Content Writer",
-      "location": "Kochi",
-      "posted": "17-08-2026",
-      "apply_by": "2026-09-17",
-      "level": "Junior",
-      "source": "Infopark page 2",
-      "note": "Verified from Infopark public jobs page 2.",
-      "url": "https://infopark.in/company-jobs/details/390/25111"
-    },
     {
       "company": "Penguin Data Centre Pvt.Ltd.",
       "role": "Jr. QA Engineer \u2013 Apprentice",
@@ -34,6 +23,17 @@
       "source": "Infopark page 2",
       "note": "Verified from Infopark public jobs page 2.",
       "url": "https://infopark.in/company-jobs/details/171/25123"
+    },
+    {
+      "company": "2Base Technologies Pvt Ltd",
+      "role": "Associate - System Engineer",
+      "location": "Kochi",
+      "posted": "24-08-2026",
+      "apply_by": "2026-08-24",
+      "level": "Entry level",
+      "source": "Infopark page 1",
+      "note": "Verified from Infopark public jobs page 1.",
+      "url": "https://infopark.in/company-jobs/details/312/25172"
     },
     {
       "company": "2Base Technologies Pvt Ltd",
@@ -76,7 +76,7 @@
       "apply_by": "n/a",
       "level": "Source status",
       "source": "Automation",
-      "note": "Infopark page 1: 1 IT roles | Infopark page 2: 2 IT roles | Technopark: 0 IT roles | Bengaluru direct employer pages: 0 IT roles | Naukri verified pages: 0 IT roles",
+      "note": "Infopark page 1: 2 IT roles | Infopark page 2: 1 IT roles | Technopark: 0 IT roles | Bengaluru direct employer pages: 0 IT roles | Naukri verified pages: 0 IT roles",
       "url": "https://infopark.in/companies-job"
     }
   ]
