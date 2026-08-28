@@ -1,12 +1,12 @@
 {
-  "refreshedAt": "2026-08-27T21:05:49Z",
+  "refreshedAt": "2026-08-28T05:33:11Z",
   "locationPriority": [
     "Kochi",
     "Thiruvananthapuram",
     "Bengaluru"
   ],
   "sourcesChecked": [
-    "Infopark page 1: 1 IT roles",
+    "Infopark page 1: 3 IT roles",
     "Infopark page 2: 0 IT roles",
     "Technopark: 0 IT roles",
     "Bengaluru direct employer pages failed: 404 Client Error: Not Found for url: https://jobs.lever.co/Sprinto/c325db0c-2182-4751-85c2-4adfee69a6ce",
@@ -25,10 +25,32 @@
       "url": "https://infopark.in/company-jobs/details/171/25188"
     },
     {
+      "company": "2Base Technologies Pvt Ltd",
+      "role": "Associate - System Engineer",
+      "location": "Kochi",
+      "posted": "28-08-2026",
+      "apply_by": "2026-08-28",
+      "level": "Entry level",
+      "source": "Infopark page 1",
+      "note": "Verified from Infopark public jobs page 1.",
+      "url": "https://infopark.in/company-jobs/details/312/25196"
+    },
+    {
+      "company": "2Base Technologies Pvt Ltd",
+      "role": "Associate - QA Engineer",
+      "location": "Kochi",
+      "posted": "28-08-2026",
+      "apply_by": "2026-08-28",
+      "level": "Entry level",
+      "source": "Infopark page 1",
+      "note": "Verified from Infopark public jobs page 1.",
+      "url": "https://infopark.in/company-jobs/details/312/25194"
+    },
+    {
       "company": "Technopark public careers",
       "role": "Coverage check only",
       "location": "Watchlist",
-      "posted": "2026-08-27",
+      "posted": "2026-08-28",
       "apply_by": "n/a",
       "level": "Source status",
       "source": "Technopark",
@@ -39,7 +61,7 @@
       "company": "Broader web search",
       "role": "Coverage check only",
       "location": "Watchlist",
-      "posted": "2026-08-27",
+      "posted": "2026-08-28",
       "apply_by": "n/a",
       "level": "Source status",
       "source": "Web search",
@@ -50,11 +72,11 @@
       "company": "Run notes",
       "role": "Source coverage summary",
       "location": "Watchlist",
-      "posted": "2026-08-27",
+      "posted": "2026-08-28",
       "apply_by": "n/a",
       "level": "Source status",
       "source": "Automation",
-      "note": "Infopark page 1: 1 IT roles | Infopark page 2: 0 IT roles | Technopark: 0 IT roles | Bengaluru direct employer pages failed: 404 Client Error: Not Found for url: https://jobs.lever.co/Sprinto/c325db0c-2182-4751-85c2-4adfee69a6ce | Naukri verified pages: 0 IT roles",
+      "note": "Infopark page 1: 3 IT roles | Infopark page 2: 0 IT roles | Technopark: 0 IT roles | Bengaluru direct employer pages failed: 404 Client Error: Not Found for url: https://jobs.lever.co/Sprinto/c325db0c-2182-4751-85c2-4adfee69a6ce | Naukri verified pages: 0 IT roles",
       "url": "https://infopark.in/companies-job"
     }
   ]
