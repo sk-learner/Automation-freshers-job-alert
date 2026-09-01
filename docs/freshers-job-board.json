@@ -1,13 +1,13 @@
 {
-  "refreshedAt": "2026-09-01T07:32:16Z",
+  "refreshedAt": "2026-09-01T13:18:27Z",
   "locationPriority": [
     "Kochi",
     "Thiruvananthapuram",
     "Bengaluru"
   ],
   "sourcesChecked": [
-    "Infopark page 1: 4 IT roles",
-    "Infopark page 2: 3 IT roles",
+    "Infopark page 1: 2 IT roles",
+    "Infopark page 2: 5 IT roles",
     "Technopark: 0 IT roles",
     "Bengaluru direct employer pages failed: 404 Client Error: Not Found for url: https://jobs.lever.co/Sprinto/c325db0c-2182-4751-85c2-4adfee69a6ce",
     "Naukri verified pages: 0 IT roles"
@@ -20,8 +20,8 @@
       "posted": "01-09-2026",
       "apply_by": "2026-09-01",
       "level": "Internship",
-      "source": "Infopark page 1",
-      "note": "Verified from Infopark public jobs page 1.",
+      "source": "Infopark page 2",
+      "note": "Verified from Infopark public jobs page 2.",
       "url": "https://infopark.in/company-jobs/details/312/25241"
     },
     {
@@ -31,8 +31,8 @@
       "posted": "01-09-2026",
       "apply_by": "2026-09-01",
       "level": "Entry level",
-      "source": "Infopark page 1",
-      "note": "Verified from Infopark public jobs page 1.",
+      "source": "Infopark page 2",
+      "note": "Verified from Infopark public jobs page 2.",
       "url": "https://infopark.in/company-jobs/details/312/25238"
     },
     {
@@ -42,8 +42,8 @@
       "posted": "01-09-2026",
       "apply_by": "2026-09-01",
       "level": "Entry level",
-      "source": "Infopark page 1",
-      "note": "Verified from Infopark public jobs page 1.",
+      "source": "Infopark page 2",
+      "note": "Verified from Infopark public jobs page 2.",
       "url": "https://infopark.in/company-jobs/details/312/25236"
     },
     {
@@ -58,15 +58,15 @@
       "url": "https://infopark.in/company-jobs/details/332/25247"
     },
     {
-      "company": "Speridian Technologies Pvt Ltd",
-      "role": "WALK-IN RECRUITMENT DRIVE - Customer Experience Associate \u2013 International Voice Process",
+      "company": "NDimensionZ Solutions Pvt.Ltd.",
+      "role": "Junior PHP Developer",
       "location": "Kochi",
-      "posted": "28-08-2026",
-      "apply_by": "2026-09-10",
-      "level": "Internship",
-      "source": "Infopark page 2",
-      "note": "Verified from Infopark public jobs page 2.",
-      "url": "https://infopark.in/company-jobs/details/142/25204"
+      "posted": "01-09-2026",
+      "apply_by": "2026-09-30",
+      "level": "Junior",
+      "source": "Infopark page 1",
+      "note": "Verified from Infopark public jobs page 1.",
+      "url": "https://infopark.in/company-jobs/details/209/25244"
     },
     {
       "company": "Voyon Technology Pvt Ltd",
@@ -120,7 +120,7 @@
       "apply_by": "n/a",
       "level": "Source status",
       "source": "Automation",
-      "note": "Infopark page 1: 4 IT roles | Infopark page 2: 3 IT roles | Technopark: 0 IT roles | Bengaluru direct employer pages failed: 404 Client Error: Not Found for url: https://jobs.lever.co/Sprinto/c325db0c-2182-4751-85c2-4adfee69a6ce | Naukri verified pages: 0 IT roles",
+      "note": "Infopark page 1: 2 IT roles | Infopark page 2: 5 IT roles | Technopark: 0 IT roles | Bengaluru direct employer pages failed: 404 Client Error: Not Found for url: https://jobs.lever.co/Sprinto/c325db0c-2182-4751-85c2-4adfee69a6ce | Naukri verified pages: 0 IT roles",
       "url": "https://infopark.in/companies-job"
     }
   ]
