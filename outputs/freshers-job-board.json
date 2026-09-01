@@ -1,62 +1,18 @@
 {
-  "refreshedAt": "2026-09-01T17:23:24Z",
+  "refreshedAt": "2026-09-01T20:04:54Z",
   "locationPriority": [
     "Kochi",
     "Thiruvananthapuram",
     "Bengaluru"
   ],
   "sourcesChecked": [
-    "Infopark page 1: 2 IT roles",
-    "Infopark page 2: 5 IT roles",
+    "Infopark page 1: 1 IT roles",
+    "Infopark page 2: 4 IT roles",
     "Technopark: 0 IT roles",
     "Bengaluru direct employer pages failed: 404 Client Error: Not Found for url: https://jobs.lever.co/Sprinto/c325db0c-2182-4751-85c2-4adfee69a6ce",
     "Naukri verified pages: 0 IT roles"
   ],
   "jobs": [
-    {
-      "company": "2Base Technologies Pvt Ltd",
-      "role": "Content Writing Intern",
-      "location": "Kochi",
-      "posted": "01-09-2026",
-      "apply_by": "2026-09-01",
-      "level": "Internship",
-      "source": "Infopark page 2",
-      "note": "Verified from Infopark public jobs page 2.",
-      "url": "https://infopark.in/company-jobs/details/312/25241"
-    },
-    {
-      "company": "2Base Technologies Pvt Ltd",
-      "role": "Associate - System Engineer",
-      "location": "Kochi",
-      "posted": "01-09-2026",
-      "apply_by": "2026-09-01",
-      "level": "Entry level",
-      "source": "Infopark page 2",
-      "note": "Verified from Infopark public jobs page 2.",
-      "url": "https://infopark.in/company-jobs/details/312/25238"
-    },
-    {
-      "company": "2Base Technologies Pvt Ltd",
-      "role": "Associate - QA Engineer",
-      "location": "Kochi",
-      "posted": "01-09-2026",
-      "apply_by": "2026-09-01",
-      "level": "Entry level",
-      "source": "Infopark page 2",
-      "note": "Verified from Infopark public jobs page 2.",
-      "url": "https://infopark.in/company-jobs/details/312/25236"
-    },
-    {
-      "company": "KL Koncepts Lab Media and IT Park",
-      "role": "Malayalam Content Writer Intern",
-      "location": "Kochi",
-      "posted": "01-09-2026",
-      "apply_by": "2026-09-01",
-      "level": "Internship",
-      "source": "Infopark page 1",
-      "note": "Verified from Infopark public jobs page 1.",
-      "url": "https://infopark.in/company-jobs/details/332/25247"
-    },
     {
       "company": "NDimensionZ Solutions Pvt.Ltd.",
       "role": "Junior PHP Developer",
@@ -67,6 +23,28 @@
       "source": "Infopark page 1",
       "note": "Verified from Infopark public jobs page 1.",
       "url": "https://infopark.in/company-jobs/details/209/25244"
+    },
+    {
+      "company": "Penguin Data Centre Pvt.Ltd.",
+      "role": "Business Analyst Apprentice",
+      "location": "Kochi",
+      "posted": "27-08-2026",
+      "apply_by": "2026-09-19",
+      "level": "Apprenticeship",
+      "source": "Infopark page 2",
+      "note": "Verified from Infopark public jobs page 2.",
+      "url": "https://infopark.in/company-jobs/details/171/25188"
+    },
+    {
+      "company": "Speridian Technologies Pvt Ltd",
+      "role": "WALK-IN RECRUITMENT DRIVE - Customer Experience Associate \u2013 International Voice Process",
+      "location": "Kochi",
+      "posted": "28-08-2026",
+      "apply_by": "2026-09-10",
+      "level": "Internship",
+      "source": "Infopark page 2",
+      "note": "Verified from Infopark public jobs page 2.",
+      "url": "https://infopark.in/company-jobs/details/142/25204"
     },
     {
       "company": "Voyon Technology Pvt Ltd",
@@ -120,7 +98,7 @@
       "apply_by": "n/a",
       "level": "Source status",
       "source": "Automation",
-      "note": "Infopark page 1: 2 IT roles | Infopark page 2: 5 IT roles | Technopark: 0 IT roles | Bengaluru direct employer pages failed: 404 Client Error: Not Found for url: https://jobs.lever.co/Sprinto/c325db0c-2182-4751-85c2-4adfee69a6ce | Naukri verified pages: 0 IT roles",
+      "note": "Infopark page 1: 1 IT roles | Infopark page 2: 4 IT roles | Technopark: 0 IT roles | Bengaluru direct employer pages failed: 404 Client Error: Not Found for url: https://jobs.lever.co/Sprinto/c325db0c-2182-4751-85c2-4adfee69a6ce | Naukri verified pages: 0 IT roles",
       "url": "https://infopark.in/companies-job"
     }
   ]
