@@ -1,12 +1,12 @@
 {
-  "refreshedAt": "2026-09-02T23:55:39Z",
+  "refreshedAt": "2026-09-03T03:53:41Z",
   "locationPriority": [
     "Kochi",
     "Thiruvananthapuram",
     "Bengaluru"
   ],
   "sourcesChecked": [
-    "Infopark page 1: 1 IT roles",
+    "Infopark page 1: 2 IT roles",
     "Infopark page 2: 0 IT roles",
     "Technopark: 0 IT roles",
     "Bengaluru direct employer pages failed: 404 Client Error: Not Found for url: https://jobs.lever.co/Sprinto/c325db0c-2182-4751-85c2-4adfee69a6ce",
@@ -25,10 +25,21 @@
       "url": "https://infopark.in/company-jobs/details/420/25282"
     },
     {
+      "company": "Lisbell Technologies Pvt Ltd",
+      "role": "AI Developer (Intern) Walk-in Interview on 4th September @SOUTH METRO I BY Infopark location",
+      "location": "Kochi",
+      "posted": "03-09-2026",
+      "apply_by": "2026-09-26",
+      "level": "Internship",
+      "source": "Infopark page 1",
+      "note": "Verified from Infopark public jobs page 1.",
+      "url": "https://infopark.in/company-jobs/details/542/25294"
+    },
+    {
       "company": "Technopark public careers",
       "role": "Coverage check only",
       "location": "Watchlist",
-      "posted": "2026-09-02",
+      "posted": "2026-09-03",
       "apply_by": "n/a",
       "level": "Source status",
       "source": "Technopark",
@@ -39,7 +50,7 @@
       "company": "Broader web search",
       "role": "Coverage check only",
       "location": "Watchlist",
-      "posted": "2026-09-02",
+      "posted": "2026-09-03",
       "apply_by": "n/a",
       "level": "Source status",
       "source": "Web search",
@@ -50,11 +61,11 @@
       "company": "Run notes",
       "role": "Source coverage summary",
       "location": "Watchlist",
-      "posted": "2026-09-02",
+      "posted": "2026-09-03",
       "apply_by": "n/a",
       "level": "Source status",
       "source": "Automation",
-      "note": "Infopark page 1: 1 IT roles | Infopark page 2: 0 IT roles | Technopark: 0 IT roles | Bengaluru direct employer pages failed: 404 Client Error: Not Found for url: https://jobs.lever.co/Sprinto/c325db0c-2182-4751-85c2-4adfee69a6ce | Naukri verified pages: 0 IT roles",
+      "note": "Infopark page 1: 2 IT roles | Infopark page 2: 0 IT roles | Technopark: 0 IT roles | Bengaluru direct employer pages failed: 404 Client Error: Not Found for url: https://jobs.lever.co/Sprinto/c325db0c-2182-4751-85c2-4adfee69a6ce | Naukri verified pages: 0 IT roles",
       "url": "https://infopark.in/companies-job"
     }
   ]
