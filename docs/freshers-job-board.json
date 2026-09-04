@@ -1,12 +1,12 @@
 {
-  "refreshedAt": "2026-09-04T10:56:14Z",
+  "refreshedAt": "2026-09-04T14:53:12Z",
   "locationPriority": [
     "Kochi",
     "Thiruvananthapuram",
     "Bengaluru"
   ],
   "sourcesChecked": [
-    "Infopark page 1: 3 IT roles",
+    "Infopark page 1: 4 IT roles",
     "Infopark page 2: 2 IT roles",
     "Technopark: 0 IT roles",
     "Bengaluru direct employer pages failed: 404 Client Error: Not Found for url: https://jobs.lever.co/Sprinto/c325db0c-2182-4751-85c2-4adfee69a6ce",
@@ -69,6 +69,17 @@
       "url": "https://infopark.in/company-jobs/details/312/25320"
     },
     {
+      "company": "NewAgeSys Solutions (P) Ltd.",
+      "role": "Website QA Engineer Intern",
+      "location": "Kochi",
+      "posted": "04-09-2026",
+      "apply_by": "2026-09-08",
+      "level": "Internship",
+      "source": "Infopark page 1",
+      "note": "Verified from Infopark public jobs page 1.",
+      "url": "https://infopark.in/company-jobs/details/109/25335"
+    },
+    {
       "company": "Technopark public careers",
       "role": "Coverage check only",
       "location": "Watchlist",
@@ -98,7 +109,7 @@
       "apply_by": "n/a",
       "level": "Source status",
       "source": "Automation",
-      "note": "Infopark page 1: 3 IT roles | Infopark page 2: 2 IT roles | Technopark: 0 IT roles | Bengaluru direct employer pages failed: 404 Client Error: Not Found for url: https://jobs.lever.co/Sprinto/c325db0c-2182-4751-85c2-4adfee69a6ce | Naukri verified pages: 0 IT roles",
+      "note": "Infopark page 1: 4 IT roles | Infopark page 2: 2 IT roles | Technopark: 0 IT roles | Bengaluru direct employer pages failed: 404 Client Error: Not Found for url: https://jobs.lever.co/Sprinto/c325db0c-2182-4751-85c2-4adfee69a6ce | Naukri verified pages: 0 IT roles",
       "url": "https://infopark.in/companies-job"
     }
   ]
