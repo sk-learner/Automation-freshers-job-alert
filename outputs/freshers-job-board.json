@@ -1,13 +1,13 @@
 {
-  "refreshedAt": "2026-09-16T04:09:29Z",
+  "refreshedAt": "2026-09-16T09:26:20Z",
   "locationPriority": [
     "Kochi",
     "Thiruvananthapuram",
     "Bengaluru"
   ],
   "sourcesChecked": [
-    "Infopark page 1: 4 IT roles",
-    "Infopark page 2: 0 IT roles",
+    "Infopark page 1: 5 IT roles",
+    "Infopark page 2: 2 IT roles",
     "Technopark: 0 IT roles",
     "Bengaluru direct employer pages failed: 404 Client Error: Not Found for url: https://jobs.lever.co/Sprinto/c325db0c-2182-4751-85c2-4adfee69a6ce",
     "Naukri verified pages: 0 IT roles"
@@ -20,8 +20,8 @@
       "posted": "13-09-2026",
       "apply_by": "2026-09-23",
       "level": "Trainee",
-      "source": "Infopark page 1",
-      "note": "Verified from Infopark public jobs page 1.",
+      "source": "Infopark page 2",
+      "note": "Verified from Infopark public jobs page 2.",
       "url": "https://infopark.in/company-jobs/details/530/25445"
     },
     {
@@ -31,20 +31,9 @@
       "posted": "14-09-2026",
       "apply_by": "2026-09-16",
       "level": "Internship",
-      "source": "Infopark page 1",
-      "note": "Verified from Infopark public jobs page 1.",
+      "source": "Infopark page 2",
+      "note": "Verified from Infopark public jobs page 2.",
       "url": "https://infopark.in/company-jobs/details/109/25456"
-    },
-    {
-      "company": "Array Platforms Pvt Ltd",
-      "role": "QA Tester \u2013 Fresher",
-      "location": "Kochi",
-      "posted": "14-09-2026",
-      "apply_by": "2026-10-30",
-      "level": "Entry level",
-      "source": "Infopark page 1",
-      "note": "Verified from Infopark public jobs page 1.",
-      "url": "https://infopark.in/company-jobs/details/394/25455"
     },
     {
       "company": "Hotpack Global",
@@ -56,6 +45,50 @@
       "source": "Infopark page 1",
       "note": "Verified from Infopark public jobs page 1.",
       "url": "https://infopark.in/company-jobs/details/349/25475"
+    },
+    {
+      "company": "2Base Technologies Pvt Ltd",
+      "role": "Content Writing Intern",
+      "location": "Kochi",
+      "posted": "16-09-2026",
+      "apply_by": "2026-09-16",
+      "level": "Internship",
+      "source": "Infopark page 1",
+      "note": "Verified from Infopark public jobs page 1.",
+      "url": "https://infopark.in/company-jobs/details/312/25482"
+    },
+    {
+      "company": "2Base Technologies Pvt Ltd",
+      "role": "Associate - System Engineer",
+      "location": "Kochi",
+      "posted": "16-09-2026",
+      "apply_by": "2026-09-16",
+      "level": "Entry level",
+      "source": "Infopark page 1",
+      "note": "Verified from Infopark public jobs page 1.",
+      "url": "https://infopark.in/company-jobs/details/312/25479"
+    },
+    {
+      "company": "2Base Technologies Pvt Ltd",
+      "role": "Associate - QA Engineer",
+      "location": "Kochi",
+      "posted": "16-09-2026",
+      "apply_by": "2026-09-16",
+      "level": "Entry level",
+      "source": "Infopark page 1",
+      "note": "Verified from Infopark public jobs page 1.",
+      "url": "https://infopark.in/company-jobs/details/312/25477"
+    },
+    {
+      "company": "ThoughtMinds System Pvt Ltd",
+      "role": "Content Writer Intern",
+      "location": "Kochi",
+      "posted": "16-09-2026",
+      "apply_by": "2026-09-16",
+      "level": "Internship",
+      "source": "Infopark page 1",
+      "note": "Verified from Infopark public jobs page 1.",
+      "url": "https://infopark.in/company-jobs/details/485/25489"
     },
     {
       "company": "Technopark public careers",
@@ -87,7 +120,7 @@
       "apply_by": "n/a",
       "level": "Source status",
       "source": "Automation",
-      "note": "Infopark page 1: 4 IT roles | Infopark page 2: 0 IT roles | Technopark: 0 IT roles | Bengaluru direct employer pages failed: 404 Client Error: Not Found for url: https://jobs.lever.co/Sprinto/c325db0c-2182-4751-85c2-4adfee69a6ce | Naukri verified pages: 0 IT roles",
+      "note": "Infopark page 1: 5 IT roles | Infopark page 2: 2 IT roles | Technopark: 0 IT roles | Bengaluru direct employer pages failed: 404 Client Error: Not Found for url: https://jobs.lever.co/Sprinto/c325db0c-2182-4751-85c2-4adfee69a6ce | Naukri verified pages: 0 IT roles",
       "url": "https://infopark.in/companies-job"
     }
   ]
