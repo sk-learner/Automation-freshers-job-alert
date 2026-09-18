@@ -1,5 +1,5 @@
 {
-  "refreshedAt": "2026-09-18T05:40:46Z",
+  "refreshedAt": "2026-09-18T10:53:41Z",
   "locationPriority": [
     "Kochi",
     "Thiruvananthapuram",
@@ -13,17 +13,6 @@
     "Naukri verified pages: 0 IT roles"
   ],
   "jobs": [
-    {
-      "company": "NewAgeSys Solutions (P) Ltd.",
-      "role": "Website QA Engineer Intern",
-      "location": "Kochi",
-      "posted": "14-09-2026",
-      "apply_by": "2026-09-18",
-      "level": "Internship",
-      "source": "Infopark page 2",
-      "note": "Verified from Infopark public jobs page 2.",
-      "url": "https://infopark.in/company-jobs/details/109/25456"
-    },
     {
       "company": "Hotpack Global",
       "role": "Accountant Associate / Assistant",
@@ -42,8 +31,8 @@
       "posted": "17-09-2026",
       "apply_by": "2026-09-30",
       "level": "Trainee",
-      "source": "Infopark page 1",
-      "note": "Verified from Infopark public jobs page 1.",
+      "source": "Infopark page 2",
+      "note": "Verified from Infopark public jobs page 2.",
       "url": "https://infopark.in/company-jobs/details/63/25500"
     },
     {
@@ -89,6 +78,17 @@
       "source": "Infopark page 1",
       "note": "Verified from Infopark public jobs page 1.",
       "url": "https://infopark.in/company-jobs/details/450/25515"
+    },
+    {
+      "company": "Orestes Technologies Pvt Ltd",
+      "role": "Market Research Intern",
+      "location": "Kochi",
+      "posted": "18-09-2026",
+      "apply_by": "2026-10-18",
+      "level": "Internship",
+      "source": "Infopark page 1",
+      "note": "Verified from Infopark public jobs page 1.",
+      "url": "https://infopark.in/company-jobs/details/390/25548"
     },
     {
       "company": "Technopark public careers",
