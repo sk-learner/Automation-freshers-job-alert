@@ -1,18 +1,40 @@
 {
-  "refreshedAt": "2026-09-21T14:27:12Z",
+  "refreshedAt": "2026-09-21T19:42:54Z",
   "locationPriority": [
     "Kochi",
     "Thiruvananthapuram",
     "Bengaluru"
   ],
   "sourcesChecked": [
-    "Infopark page 1: 5 IT roles",
-    "Infopark page 2: 2 IT roles",
+    "Infopark page 1: 2 IT roles",
+    "Infopark page 2: 4 IT roles",
     "Technopark: 0 IT roles",
     "Bengaluru direct employer pages failed: 404 Client Error: Not Found for url: https://jobs.lever.co/Sprinto/c325db0c-2182-4751-85c2-4adfee69a6ce",
     "Naukri verified pages: 0 IT roles"
   ],
   "jobs": [
+    {
+      "company": "WORKSENT TECHNOLOGIES PVT LTD",
+      "role": "Talent Acquisition Intern",
+      "location": "Kochi",
+      "posted": "17-09-2026",
+      "apply_by": "2026-09-24",
+      "level": "Internship",
+      "source": "Infopark page 2",
+      "note": "Verified from Infopark public jobs page 2.",
+      "url": "https://infopark.in/company-jobs/details/164/25507"
+    },
+    {
+      "company": "SparkSupport Infotech Pvt Ltd",
+      "role": "QA Engineer Trainee",
+      "location": "Kochi",
+      "posted": "17-09-2026",
+      "apply_by": "2026-09-30",
+      "level": "Trainee",
+      "source": "Infopark page 2",
+      "note": "Verified from Infopark public jobs page 2.",
+      "url": "https://infopark.in/company-jobs/details/63/25500"
+    },
     {
       "company": "iCodeBees Private Limited",
       "role": "Content writer intern",
@@ -34,39 +56,6 @@
       "source": "Infopark page 2",
       "note": "Verified from Infopark public jobs page 2.",
       "url": "https://infopark.in/company-jobs/details/390/25548"
-    },
-    {
-      "company": "2Base Technologies Pvt Ltd",
-      "role": "Content Writing Intern",
-      "location": "Kochi",
-      "posted": "21-09-2026",
-      "apply_by": "2026-09-21",
-      "level": "Internship",
-      "source": "Infopark page 1",
-      "note": "Verified from Infopark public jobs page 1.",
-      "url": "https://infopark.in/company-jobs/details/312/25607"
-    },
-    {
-      "company": "2Base Technologies Pvt Ltd",
-      "role": "Associate - System Engineer",
-      "location": "Kochi",
-      "posted": "21-09-2026",
-      "apply_by": "2026-09-21",
-      "level": "Entry level",
-      "source": "Infopark page 1",
-      "note": "Verified from Infopark public jobs page 1.",
-      "url": "https://infopark.in/company-jobs/details/312/25604"
-    },
-    {
-      "company": "2Base Technologies Pvt Ltd",
-      "role": "Associate - QA Engineer",
-      "location": "Kochi",
-      "posted": "21-09-2026",
-      "apply_by": "2026-09-21",
-      "level": "Entry level",
-      "source": "Infopark page 1",
-      "note": "Verified from Infopark public jobs page 1.",
-      "url": "https://infopark.in/company-jobs/details/312/25602"
     },
     {
       "company": "Paoyaila Animation Studios LLP",
@@ -120,7 +109,7 @@
       "apply_by": "n/a",
       "level": "Source status",
       "source": "Automation",
-      "note": "Infopark page 1: 5 IT roles | Infopark page 2: 2 IT roles | Technopark: 0 IT roles | Bengaluru direct employer pages failed: 404 Client Error: Not Found for url: https://jobs.lever.co/Sprinto/c325db0c-2182-4751-85c2-4adfee69a6ce | Naukri verified pages: 0 IT roles",
+      "note": "Infopark page 1: 2 IT roles | Infopark page 2: 4 IT roles | Technopark: 0 IT roles | Bengaluru direct employer pages failed: 404 Client Error: Not Found for url: https://jobs.lever.co/Sprinto/c325db0c-2182-4751-85c2-4adfee69a6ce | Naukri verified pages: 0 IT roles",
       "url": "https://infopark.in/companies-job"
     }
   ]
