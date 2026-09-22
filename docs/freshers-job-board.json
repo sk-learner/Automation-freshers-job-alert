@@ -1,12 +1,12 @@
 {
-  "refreshedAt": "2026-09-22T07:30:53Z",
+  "refreshedAt": "2026-09-22T13:14:22Z",
   "locationPriority": [
     "Kochi",
     "Thiruvananthapuram",
     "Bengaluru"
   ],
   "sourcesChecked": [
-    "Infopark page 1: 4 IT roles",
+    "Infopark page 1: 5 IT roles",
     "Infopark page 2: 2 IT roles",
     "Technopark: 0 IT roles",
     "Bengaluru direct employer pages failed: 404 Client Error: Not Found for url: https://jobs.lever.co/Sprinto/c325db0c-2182-4751-85c2-4adfee69a6ce",
@@ -14,36 +14,14 @@
   ],
   "jobs": [
     {
-      "company": "iCodeBees Private Limited",
-      "role": "Content writer intern",
-      "location": "Kochi",
-      "posted": "18-09-2026",
-      "apply_by": "2026-09-23",
-      "level": "Internship",
-      "source": "Infopark page 2",
-      "note": "Verified from Infopark public jobs page 2.",
-      "url": "https://infopark.in/company-jobs/details/450/25515"
-    },
-    {
-      "company": "Orestes Technologies Pvt Ltd",
-      "role": "Market Research Intern",
-      "location": "Kochi",
-      "posted": "18-09-2026",
-      "apply_by": "2026-10-18",
-      "level": "Internship",
-      "source": "Infopark page 2",
-      "note": "Verified from Infopark public jobs page 2.",
-      "url": "https://infopark.in/company-jobs/details/390/25548"
-    },
-    {
       "company": "Paoyaila Animation Studios LLP",
       "role": "Data Analytics Developer / Data Analytics Developer(Intern)",
       "location": "Kochi",
       "posted": "21-09-2026",
       "apply_by": "2026-09-30",
       "level": "Internship",
-      "source": "Infopark page 1",
-      "note": "Verified from Infopark public jobs page 1.",
+      "source": "Infopark page 2",
+      "note": "Verified from Infopark public jobs page 2.",
       "url": "https://infopark.in/company-jobs/details/476/25614"
     },
     {
@@ -53,8 +31,8 @@
       "posted": "21-09-2026",
       "apply_by": "2026-10-14",
       "level": "Internship",
-      "source": "Infopark page 1",
-      "note": "Verified from Infopark public jobs page 1.",
+      "source": "Infopark page 2",
+      "note": "Verified from Infopark public jobs page 2.",
       "url": "https://infopark.in/company-jobs/details/148/25616"
     },
     {
@@ -78,6 +56,39 @@
       "source": "Infopark page 1",
       "note": "Verified from Infopark public jobs page 1.",
       "url": "https://infopark.in/company-jobs/details/312/25628"
+    },
+    {
+      "company": "CloudHouse Technologies Pvt.Ltd",
+      "role": "Software Tester Intern",
+      "location": "Kochi",
+      "posted": "22-09-2026",
+      "apply_by": "2026-09-29",
+      "level": "Internship",
+      "source": "Infopark page 1",
+      "note": "Verified from Infopark public jobs page 1.",
+      "url": "https://infopark.in/company-jobs/details/480/25642"
+    },
+    {
+      "company": "Techware Lab Pvt.Ltd.",
+      "role": "AI-Powered Video Editor (Entry Level / 0-1 Year Experience)- Immediate Joiners",
+      "location": "Kochi",
+      "posted": "22-09-2026",
+      "apply_by": "2026-10-22",
+      "level": "Entry level",
+      "source": "Infopark page 1",
+      "note": "Verified from Infopark public jobs page 1.",
+      "url": "https://infopark.in/company-jobs/details/268/25637"
+    },
+    {
+      "company": "YOUGotaGift Pvt Ltd",
+      "role": "Junior Security Test Engineer",
+      "location": "Kochi",
+      "posted": "22-09-2026",
+      "apply_by": "2026-10-22",
+      "level": "Junior",
+      "source": "Infopark page 1",
+      "note": "Verified from Infopark public jobs page 1.",
+      "url": "https://infopark.in/company-jobs/details/482/25638"
     },
     {
       "company": "Technopark public careers",
@@ -109,7 +120,7 @@
       "apply_by": "n/a",
       "level": "Source status",
       "source": "Automation",
-      "note": "Infopark page 1: 4 IT roles | Infopark page 2: 2 IT roles | Technopark: 0 IT roles | Bengaluru direct employer pages failed: 404 Client Error: Not Found for url: https://jobs.lever.co/Sprinto/c325db0c-2182-4751-85c2-4adfee69a6ce | Naukri verified pages: 0 IT roles",
+      "note": "Infopark page 1: 5 IT roles | Infopark page 2: 2 IT roles | Technopark: 0 IT roles | Bengaluru direct employer pages failed: 404 Client Error: Not Found for url: https://jobs.lever.co/Sprinto/c325db0c-2182-4751-85c2-4adfee69a6ce | Naukri verified pages: 0 IT roles",
       "url": "https://infopark.in/companies-job"
     }
   ]
