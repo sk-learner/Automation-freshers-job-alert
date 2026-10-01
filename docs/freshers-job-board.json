@@ -1,5 +1,5 @@
 {
-  "refreshedAt": "2026-10-01T00:44:43Z",
+  "refreshedAt": "2026-10-01T07:00:57Z",
   "locationPriority": [
     "Kochi",
     "Thiruvananthapuram",
@@ -7,12 +7,34 @@
   ],
   "sourcesChecked": [
     "Infopark page 1: 2 IT roles",
-    "Infopark page 2: 1 IT roles",
+    "Infopark page 2: 3 IT roles",
     "Technopark: 0 IT roles",
     "Bengaluru direct employer pages failed: 404 Client Error: Not Found for url: https://jobs.lever.co/Sprinto/c325db0c-2182-4751-85c2-4adfee69a6ce",
     "Naukri verified pages: 0 IT roles"
   ],
   "jobs": [
+    {
+      "company": "2Base Technologies Pvt Ltd",
+      "role": "Associate - System Engineer",
+      "location": "Kochi",
+      "posted": "01-10-2026",
+      "apply_by": "2026-10-01",
+      "level": "Entry level",
+      "source": "Infopark page 1",
+      "note": "Verified from Infopark public jobs page 1.",
+      "url": "https://infopark.in/company-jobs/details/312/25844"
+    },
+    {
+      "company": "2Base Technologies Pvt Ltd",
+      "role": "Associate - QA Engineer",
+      "location": "Kochi",
+      "posted": "01-10-2026",
+      "apply_by": "2026-10-01",
+      "level": "Entry level",
+      "source": "Infopark page 1",
+      "note": "Verified from Infopark public jobs page 1.",
+      "url": "https://infopark.in/company-jobs/details/312/25842"
+    },
     {
       "company": "AVENTUS INFORMATICS",
       "role": "Flutter Developer Intern",
@@ -31,8 +53,8 @@
       "posted": "30-09-2026",
       "apply_by": "2026-10-15",
       "level": "Junior",
-      "source": "Infopark page 1",
-      "note": "Verified from Infopark public jobs page 1.",
+      "source": "Infopark page 2",
+      "note": "Verified from Infopark public jobs page 2.",
       "url": "https://infopark.in/company-jobs/details/259/25829"
     },
     {
@@ -42,8 +64,8 @@
       "posted": "30-09-2026",
       "apply_by": "2026-10-16",
       "level": "Internship",
-      "source": "Infopark page 1",
-      "note": "Verified from Infopark public jobs page 1.",
+      "source": "Infopark page 2",
+      "note": "Verified from Infopark public jobs page 2.",
       "url": "https://infopark.in/company-jobs/details/420/25830"
     },
     {
@@ -76,7 +98,7 @@
       "apply_by": "n/a",
       "level": "Source status",
       "source": "Automation",
-      "note": "Infopark page 1: 2 IT roles | Infopark page 2: 1 IT roles | Technopark: 0 IT roles | Bengaluru direct employer pages failed: 404 Client Error: Not Found for url: https://jobs.lever.co/Sprinto/c325db0c-2182-4751-85c2-4adfee69a6ce | Naukri verified pages: 0 IT roles",
+      "note": "Infopark page 1: 2 IT roles | Infopark page 2: 3 IT roles | Technopark: 0 IT roles | Bengaluru direct employer pages failed: 404 Client Error: Not Found for url: https://jobs.lever.co/Sprinto/c325db0c-2182-4751-85c2-4adfee69a6ce | Naukri verified pages: 0 IT roles",
       "url": "https://infopark.in/companies-job"
     }
   ]
