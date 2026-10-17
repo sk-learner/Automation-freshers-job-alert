@@ -1,5 +1,5 @@
 {
-  "refreshedAt": "2026-10-17T13:07:00Z",
+  "refreshedAt": "2026-10-17T16:36:06Z",
   "locationPriority": [
     "Kochi",
     "Thiruvananthapuram",
@@ -8,7 +8,7 @@
   "sourcesChecked": [
     "Infopark page 1: 0 IT roles",
     "Infopark page 2: 1 IT roles",
-    "Technopark failed: 503 Server Error: Service Unavailable for url: https://technopark.in/job-search",
+    "Technopark: 0 IT roles",
     "Bengaluru direct employer pages failed: 404 Client Error: Not Found for url: https://jobs.lever.co/Sprinto/c325db0c-2182-4751-85c2-4adfee69a6ce",
     "Naukri verified pages: 0 IT roles"
   ],
@@ -54,7 +54,7 @@
       "apply_by": "n/a",
       "level": "Source status",
       "source": "Automation",
-      "note": "Infopark page 1: 0 IT roles | Infopark page 2: 1 IT roles | Technopark failed: 503 Server Error: Service Unavailable for url: https://technopark.in/job-search | Bengaluru direct employer pages failed: 404 Client Error: Not Found for url: https://jobs.lever.co/Sprinto/c325db0c-2182-4751-85c2-4adfee69a6ce | Naukri verified pages: 0 IT roles",
+      "note": "Infopark page 1: 0 IT roles | Infopark page 2: 1 IT roles | Technopark: 0 IT roles | Bengaluru direct employer pages failed: 404 Client Error: Not Found for url: https://jobs.lever.co/Sprinto/c325db0c-2182-4751-85c2-4adfee69a6ce | Naukri verified pages: 0 IT roles",
       "url": "https://infopark.in/companies-job"
     }
   ]
