@@ -1,12 +1,12 @@
 {
-  "refreshedAt": "2026-10-23T17:47:41Z",
+  "refreshedAt": "2026-10-23T21:12:25Z",
   "locationPriority": [
     "Kochi",
     "Thiruvananthapuram",
     "Bengaluru"
   ],
   "sourcesChecked": [
-    "Infopark page 1: 3 IT roles",
+    "Infopark page 1: 1 IT roles",
     "Infopark page 2: 1 IT roles",
     "Technopark: 0 IT roles",
     "Bengaluru direct employer pages failed: 404 Client Error: Not Found for url: https://jobs.lever.co/Sprinto/c325db0c-2182-4751-85c2-4adfee69a6ce",
@@ -14,37 +14,15 @@
   ],
   "jobs": [
     {
-      "company": "2Base Technologies Pvt Ltd",
-      "role": "Associate - System Engineer",
+      "company": "Advenser Engineering Services Private Limited",
+      "role": "Junior Engineer \u2013 BIM Consulting",
       "location": "Kochi",
-      "posted": "23-10-2026",
-      "apply_by": "2026-10-23",
-      "level": "Entry level",
+      "posted": "22-10-2026",
+      "apply_by": "2026-11-30",
+      "level": "Junior",
       "source": "Infopark page 2",
       "note": "Verified from Infopark public jobs page 2.",
-      "url": "https://infopark.in/company-jobs/details/312/26322"
-    },
-    {
-      "company": "Netlyft Technologies Pvt Ltd",
-      "role": "WordPress Developer Intern",
-      "location": "Kochi",
-      "posted": "23-10-2026",
-      "apply_by": "2026-10-23",
-      "level": "Internship",
-      "source": "Infopark page 1",
-      "note": "Verified from Infopark public jobs page 1.",
-      "url": "https://infopark.in/company-jobs/details/518/26347"
-    },
-    {
-      "company": "Netlyft Technologies Pvt Ltd",
-      "role": "React Developer Intern",
-      "location": "Kochi",
-      "posted": "23-10-2026",
-      "apply_by": "2026-10-23",
-      "level": "Internship",
-      "source": "Infopark page 1",
-      "note": "Verified from Infopark public jobs page 1.",
-      "url": "https://infopark.in/company-jobs/details/518/26345"
+      "url": "https://infopark.in/company-jobs/details/107/26303"
     },
     {
       "company": "Simelabs - An Astek Company",
@@ -87,7 +65,7 @@
       "apply_by": "n/a",
       "level": "Source status",
       "source": "Automation",
-      "note": "Infopark page 1: 3 IT roles | Infopark page 2: 1 IT roles | Technopark: 0 IT roles | Bengaluru direct employer pages failed: 404 Client Error: Not Found for url: https://jobs.lever.co/Sprinto/c325db0c-2182-4751-85c2-4adfee69a6ce | Naukri verified pages: 0 IT roles",
+      "note": "Infopark page 1: 1 IT roles | Infopark page 2: 1 IT roles | Technopark: 0 IT roles | Bengaluru direct employer pages failed: 404 Client Error: Not Found for url: https://jobs.lever.co/Sprinto/c325db0c-2182-4751-85c2-4adfee69a6ce | Naukri verified pages: 0 IT roles",
       "url": "https://infopark.in/companies-job"
     }
   ]
