@@ -1,5 +1,5 @@
 {
-  "refreshedAt": "2026-10-24T13:30:34Z",
+  "refreshedAt": "2026-10-24T17:16:13Z",
   "locationPriority": [
     "Kochi",
     "Thiruvananthapuram",
@@ -14,26 +14,26 @@
   ],
   "jobs": [
     {
-      "company": "2Base Technologies Pvt Ltd",
-      "role": "Associate - System Engineer",
-      "location": "Kochi",
-      "posted": "23-10-2026",
-      "apply_by": "2026-10-24",
-      "level": "Entry level",
-      "source": "Infopark page 2",
-      "note": "Verified from Infopark public jobs page 2.",
-      "url": "https://infopark.in/company-jobs/details/312/26322"
-    },
-    {
       "company": "Simelabs - An Astek Company",
       "role": "Junior Data Engineer",
       "location": "Kochi",
       "posted": "23-10-2026",
       "apply_by": "2026-12-01",
       "level": "Junior",
+      "source": "Infopark page 2",
+      "note": "Verified from Infopark public jobs page 2.",
+      "url": "https://infopark.in/company-jobs/details/378/26340"
+    },
+    {
+      "company": "Ynot Infosolutions",
+      "role": "Junior Laravel Developer(Immediate Hiring)",
+      "location": "Kochi",
+      "posted": "24-10-2026",
+      "apply_by": "2026-11-01",
+      "level": "Junior",
       "source": "Infopark page 1",
       "note": "Verified from Infopark public jobs page 1.",
-      "url": "https://infopark.in/company-jobs/details/378/26340"
+      "url": "https://infopark.in/company-jobs/details/262/26361"
     },
     {
       "company": "Technopark public careers",
