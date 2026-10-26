@@ -1,12 +1,12 @@
 {
-  "refreshedAt": "2026-10-26T01:34:50Z",
+  "refreshedAt": "2026-10-26T07:35:35Z",
   "locationPriority": [
     "Kochi",
     "Thiruvananthapuram",
     "Bengaluru"
   ],
   "sourcesChecked": [
-    "Infopark page 1: 1 IT roles",
+    "Infopark page 1: 2 IT roles",
     "Infopark page 2: 1 IT roles",
     "Technopark: 0 IT roles",
     "Bengaluru direct employer pages failed: 404 Client Error: Not Found for url: https://jobs.lever.co/Sprinto/c325db0c-2182-4751-85c2-4adfee69a6ce",
@@ -34,6 +34,17 @@
       "source": "Infopark page 1",
       "note": "Verified from Infopark public jobs page 1.",
       "url": "https://infopark.in/company-jobs/details/262/26361"
+    },
+    {
+      "company": "Armia Systems Pvt. Ltd",
+      "role": "Jr. Business Developement Trainee(Exp: 6months)",
+      "location": "Kochi",
+      "posted": "26-10-2026",
+      "apply_by": "2026-11-09",
+      "level": "Trainee",
+      "source": "Infopark page 1",
+      "note": "Verified from Infopark public jobs page 1.",
+      "url": "https://infopark.in/company-jobs/details/3/26380"
     },
     {
       "company": "Technopark public careers",
@@ -65,7 +76,7 @@
       "apply_by": "n/a",
       "level": "Source status",
       "source": "Automation",
-      "note": "Infopark page 1: 1 IT roles | Infopark page 2: 1 IT roles | Technopark: 0 IT roles | Bengaluru direct employer pages failed: 404 Client Error: Not Found for url: https://jobs.lever.co/Sprinto/c325db0c-2182-4751-85c2-4adfee69a6ce | Naukri verified pages: 0 IT roles",
+      "note": "Infopark page 1: 2 IT roles | Infopark page 2: 1 IT roles | Technopark: 0 IT roles | Bengaluru direct employer pages failed: 404 Client Error: Not Found for url: https://jobs.lever.co/Sprinto/c325db0c-2182-4751-85c2-4adfee69a6ce | Naukri verified pages: 0 IT roles",
       "url": "https://infopark.in/companies-job"
     }
   ]
