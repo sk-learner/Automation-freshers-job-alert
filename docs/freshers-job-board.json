@@ -1,29 +1,18 @@
 {
-  "refreshedAt": "2026-10-30T01:44:51Z",
+  "refreshedAt": "2026-10-30T08:21:02Z",
   "locationPriority": [
     "Kochi",
     "Thiruvananthapuram",
     "Bengaluru"
   ],
   "sourcesChecked": [
-    "Infopark page 1: 0 IT roles",
-    "Infopark page 2: 2 IT roles",
+    "Infopark page 1: 2 IT roles",
+    "Infopark page 2: 1 IT roles",
     "Technopark: 0 IT roles",
     "Bengaluru direct employer pages failed: 404 Client Error: Not Found for url: https://jobs.lever.co/Sprinto/c325db0c-2182-4751-85c2-4adfee69a6ce",
     "Naukri verified pages: 0 IT roles"
   ],
   "jobs": [
-    {
-      "company": "Orestes Technologies Pvt Ltd",
-      "role": "Content Writer (Fresher)",
-      "location": "Kochi",
-      "posted": "28-10-2026",
-      "apply_by": "2026-11-26",
-      "level": "Early career",
-      "source": "Infopark page 2",
-      "note": "Verified from Infopark public jobs page 2.",
-      "url": "https://infopark.in/company-jobs/details/390/26431"
-    },
     {
       "company": "Aabasoft Technologies India Private Limited",
       "role": "Operations Internship",
@@ -34,6 +23,28 @@
       "source": "Infopark page 2",
       "note": "Verified from Infopark public jobs page 2.",
       "url": "https://infopark.in/company-jobs/details/95/26433"
+    },
+    {
+      "company": "2Base Technologies Pvt Ltd",
+      "role": "Associate - System Engineer",
+      "location": "Kochi",
+      "posted": "30-10-2026",
+      "apply_by": "2026-10-30",
+      "level": "Entry level",
+      "source": "Infopark page 1",
+      "note": "Verified from Infopark public jobs page 1.",
+      "url": "https://infopark.in/company-jobs/details/312/26483"
+    },
+    {
+      "company": "Estro Tech Robotics and Innovations Pvt. Ltd.",
+      "role": "Research and Development Production Intern",
+      "location": "Kochi",
+      "posted": "30-10-2026",
+      "apply_by": "2026-11-16",
+      "level": "Internship",
+      "source": "Infopark page 1",
+      "note": "Verified from Infopark public jobs page 1.",
+      "url": "https://infopark.in/company-jobs/details/486/26490"
     },
     {
       "company": "Technopark public careers",
@@ -65,7 +76,7 @@
       "apply_by": "n/a",
       "level": "Source status",
       "source": "Automation",
-      "note": "Infopark page 1: 0 IT roles | Infopark page 2: 2 IT roles | Technopark: 0 IT roles | Bengaluru direct employer pages failed: 404 Client Error: Not Found for url: https://jobs.lever.co/Sprinto/c325db0c-2182-4751-85c2-4adfee69a6ce | Naukri verified pages: 0 IT roles",
+      "note": "Infopark page 1: 2 IT roles | Infopark page 2: 1 IT roles | Technopark: 0 IT roles | Bengaluru direct employer pages failed: 404 Client Error: Not Found for url: https://jobs.lever.co/Sprinto/c325db0c-2182-4751-85c2-4adfee69a6ce | Naukri verified pages: 0 IT roles",
       "url": "https://infopark.in/companies-job"
     }
   ]
