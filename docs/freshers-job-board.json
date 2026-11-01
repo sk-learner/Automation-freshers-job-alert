@@ -1,5 +1,5 @@
 {
-  "refreshedAt": "2026-10-31T23:34:39Z",
+  "refreshedAt": "2026-11-01T05:17:47Z",
   "locationPriority": [
     "Kochi",
     "Thiruvananthapuram",
@@ -7,12 +7,23 @@
   ],
   "sourcesChecked": [
     "Infopark page 1: 2 IT roles",
-    "Infopark page 2: 1 IT roles",
+    "Infopark page 2: 2 IT roles",
     "Technopark: 0 IT roles",
     "Bengaluru direct employer pages failed: 404 Client Error: Not Found for url: https://jobs.lever.co/Sprinto/c325db0c-2182-4751-85c2-4adfee69a6ce",
     "Naukri verified pages: 0 IT roles"
   ],
   "jobs": [
+    {
+      "company": "2Base Technologies Pvt Ltd",
+      "role": "Associate - System Engineer",
+      "location": "Kochi",
+      "posted": "30-10-2026",
+      "apply_by": "2026-11-01",
+      "level": "Entry level",
+      "source": "Infopark page 2",
+      "note": "Verified from Infopark public jobs page 2.",
+      "url": "https://infopark.in/company-jobs/details/312/26483"
+    },
     {
       "company": "Estro Tech Robotics and Innovations Pvt. Ltd.",
       "role": "Research and Development Production Intern",
@@ -50,7 +61,7 @@
       "company": "Technopark public careers",
       "role": "Coverage check only",
       "location": "Watchlist",
-      "posted": "2026-10-31",
+      "posted": "2026-11-01",
       "apply_by": "n/a",
       "level": "Source status",
       "source": "Technopark",
@@ -61,7 +72,7 @@
       "company": "Broader web search",
       "role": "Coverage check only",
       "location": "Watchlist",
-      "posted": "2026-10-31",
+      "posted": "2026-11-01",
       "apply_by": "n/a",
       "level": "Source status",
       "source": "Web search",
@@ -72,11 +83,11 @@
       "company": "Run notes",
       "role": "Source coverage summary",
       "location": "Watchlist",
-      "posted": "2026-10-31",
+      "posted": "2026-11-01",
       "apply_by": "n/a",
       "level": "Source status",
       "source": "Automation",
-      "note": "Infopark page 1: 2 IT roles | Infopark page 2: 1 IT roles | Technopark: 0 IT roles | Bengaluru direct employer pages failed: 404 Client Error: Not Found for url: https://jobs.lever.co/Sprinto/c325db0c-2182-4751-85c2-4adfee69a6ce | Naukri verified pages: 0 IT roles",
+      "note": "Infopark page 1: 2 IT roles | Infopark page 2: 2 IT roles | Technopark: 0 IT roles | Bengaluru direct employer pages failed: 404 Client Error: Not Found for url: https://jobs.lever.co/Sprinto/c325db0c-2182-4751-85c2-4adfee69a6ce | Naukri verified pages: 0 IT roles",
       "url": "https://infopark.in/companies-job"
     }
   ]
