@@ -1,5 +1,5 @@
 {
-  "refreshedAt": "2026-11-11T02:56:07Z",
+  "refreshedAt": "2026-11-11T10:37:56Z",
   "locationPriority": [
     "Kochi",
     "Thiruvananthapuram",
@@ -13,28 +13,6 @@
     "Naukri verified pages: 0 IT roles"
   ],
   "jobs": [
-    {
-      "company": "iLeaf Solutions Pvt Ltd.",
-      "role": "Internship cum Hiring!",
-      "location": "Kochi",
-      "posted": "06-11-2026",
-      "apply_by": "2026-11-20",
-      "level": "Internship",
-      "source": "Infopark page 2",
-      "note": "Verified from Infopark public jobs page 2.",
-      "url": "https://infopark.in/company-jobs/details/59/26634"
-    },
-    {
-      "company": "Digiora Technologies Pvt.Ltd.",
-      "role": "Social Media Executive Internship",
-      "location": "Kochi",
-      "posted": "06-11-2026",
-      "apply_by": "2027-01-31",
-      "level": "Internship",
-      "source": "Infopark page 2",
-      "note": "Verified from Infopark public jobs page 2.",
-      "url": "https://infopark.in/company-jobs/details/250/26642"
-    },
     {
       "company": "IVBM Pvt Ltd",
       "role": "Junior Developer / Developer Trainee (Python & Django)",
@@ -53,8 +31,8 @@
       "posted": "10-11-2026",
       "apply_by": "2026-11-27",
       "level": "Junior",
-      "source": "Infopark page 1",
-      "note": "Verified from Infopark public jobs page 1.",
+      "source": "Infopark page 2",
+      "note": "Verified from Infopark public jobs page 2.",
       "url": "https://infopark.in/company-jobs/details/95/26707"
     },
     {
@@ -64,9 +42,31 @@
       "posted": "10-11-2026",
       "apply_by": "2026-11-27",
       "level": "Early career",
+      "source": "Infopark page 2",
+      "note": "Verified from Infopark public jobs page 2.",
+      "url": "https://infopark.in/company-jobs/details/95/26706"
+    },
+    {
+      "company": "2Base Technologies Pvt Ltd",
+      "role": "Associate - System Engineer",
+      "location": "Kochi",
+      "posted": "11-11-2026",
+      "apply_by": "2026-11-11",
+      "level": "Entry level",
       "source": "Infopark page 1",
       "note": "Verified from Infopark public jobs page 1.",
-      "url": "https://infopark.in/company-jobs/details/95/26706"
+      "url": "https://infopark.in/company-jobs/details/312/26732"
+    },
+    {
+      "company": "ORTHOFX PRIVATE LIMITED",
+      "role": "Walk-in Drive- Software Engineering Internship",
+      "location": "Kochi",
+      "posted": "11-11-2026",
+      "apply_by": "2026-11-28",
+      "level": "Internship",
+      "source": "Infopark page 1",
+      "note": "Verified from Infopark public jobs page 1.",
+      "url": "https://infopark.in/company-jobs/details/354/26740"
     },
     {
       "company": "Technopark public careers",
