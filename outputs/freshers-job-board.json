@@ -1,5 +1,5 @@
 {
-  "refreshedAt": "2026-11-11T18:29:26Z",
+  "refreshedAt": "2026-11-12T00:57:53Z",
   "locationPriority": [
     "Kochi",
     "Thiruvananthapuram",
@@ -7,7 +7,7 @@
   ],
   "sourcesChecked": [
     "Infopark page 1: 2 IT roles",
-    "Infopark page 2: 3 IT roles",
+    "Infopark page 2: 2 IT roles",
     "Technopark: 0 IT roles",
     "Bengaluru direct employer pages failed: 404 Client Error: Not Found for url: https://jobs.lever.co/Sprinto/c325db0c-2182-4751-85c2-4adfee69a6ce",
     "Naukri verified pages: 0 IT roles"
@@ -20,8 +20,8 @@
       "posted": "10-11-2026",
       "apply_by": "2026-11-15",
       "level": "Trainee",
-      "source": "Infopark page 2",
-      "note": "Verified from Infopark public jobs page 2.",
+      "source": "Infopark page 1",
+      "note": "Verified from Infopark public jobs page 1.",
       "url": "https://infopark.in/company-jobs/details/551/26722"
     },
     {
@@ -47,17 +47,6 @@
       "url": "https://infopark.in/company-jobs/details/95/26706"
     },
     {
-      "company": "2Base Technologies Pvt Ltd",
-      "role": "Associate - System Engineer",
-      "location": "Kochi",
-      "posted": "11-11-2026",
-      "apply_by": "2026-11-11",
-      "level": "Entry level",
-      "source": "Infopark page 1",
-      "note": "Verified from Infopark public jobs page 1.",
-      "url": "https://infopark.in/company-jobs/details/312/26732"
-    },
-    {
       "company": "ORTHOFX PRIVATE LIMITED",
       "role": "Walk-in Drive- Software Engineering Internship",
       "location": "Kochi",
@@ -72,7 +61,7 @@
       "company": "Technopark public careers",
       "role": "Coverage check only",
       "location": "Watchlist",
-      "posted": "2026-11-11",
+      "posted": "2026-11-12",
       "apply_by": "n/a",
       "level": "Source status",
       "source": "Technopark",
@@ -83,7 +72,7 @@
       "company": "Broader web search",
       "role": "Coverage check only",
       "location": "Watchlist",
-      "posted": "2026-11-11",
+      "posted": "2026-11-12",
       "apply_by": "n/a",
       "level": "Source status",
       "source": "Web search",
@@ -94,11 +83,11 @@
       "company": "Run notes",
       "role": "Source coverage summary",
       "location": "Watchlist",
-      "posted": "2026-11-11",
+      "posted": "2026-11-12",
       "apply_by": "n/a",
       "level": "Source status",
       "source": "Automation",
-      "note": "Infopark page 1: 2 IT roles | Infopark page 2: 3 IT roles | Technopark: 0 IT roles | Bengaluru direct employer pages failed: 404 Client Error: Not Found for url: https://jobs.lever.co/Sprinto/c325db0c-2182-4751-85c2-4adfee69a6ce | Naukri verified pages: 0 IT roles",
+      "note": "Infopark page 1: 2 IT roles | Infopark page 2: 2 IT roles | Technopark: 0 IT roles | Bengaluru direct employer pages failed: 404 Client Error: Not Found for url: https://jobs.lever.co/Sprinto/c325db0c-2182-4751-85c2-4adfee69a6ce | Naukri verified pages: 0 IT roles",
       "url": "https://infopark.in/companies-job"
     }
   ]
