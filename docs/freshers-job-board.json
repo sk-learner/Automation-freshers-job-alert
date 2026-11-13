@@ -1,5 +1,5 @@
 {
-  "refreshedAt": "2026-11-13T03:17:53Z",
+  "refreshedAt": "2026-11-13T11:26:04Z",
   "locationPriority": [
     "Kochi",
     "Thiruvananthapuram",
@@ -7,7 +7,7 @@
   ],
   "sourcesChecked": [
     "Infopark page 1: 1 IT roles",
-    "Infopark page 2: 3 IT roles",
+    "Infopark page 2: 2 IT roles",
     "Technopark: 0 IT roles",
     "Bengaluru direct employer pages failed: 404 Client Error: Not Found for url: https://jobs.lever.co/Sprinto/c325db0c-2182-4751-85c2-4adfee69a6ce",
     "Naukri verified pages: 0 IT roles"
@@ -25,37 +25,26 @@
       "url": "https://infopark.in/company-jobs/details/551/26722"
     },
     {
-      "company": "Aabasoft Technologies India Private Limited",
-      "role": "Junior Social Media Analyst",
-      "location": "Kochi",
-      "posted": "10-11-2026",
-      "apply_by": "2026-11-27",
-      "level": "Junior",
-      "source": "Infopark page 2",
-      "note": "Verified from Infopark public jobs page 2.",
-      "url": "https://infopark.in/company-jobs/details/95/26707"
-    },
-    {
-      "company": "Aabasoft Technologies India Private Limited",
-      "role": "Operations Executive (Fresher)",
-      "location": "Kochi",
-      "posted": "10-11-2026",
-      "apply_by": "2026-11-27",
-      "level": "Early career",
-      "source": "Infopark page 2",
-      "note": "Verified from Infopark public jobs page 2.",
-      "url": "https://infopark.in/company-jobs/details/95/26706"
-    },
-    {
       "company": "ORTHOFX PRIVATE LIMITED",
       "role": "Walk-in Drive- Software Engineering Internship",
       "location": "Kochi",
       "posted": "11-11-2026",
       "apply_by": "2026-11-28",
       "level": "Internship",
+      "source": "Infopark page 2",
+      "note": "Verified from Infopark public jobs page 2.",
+      "url": "https://infopark.in/company-jobs/details/354/26740"
+    },
+    {
+      "company": "2Base Technologies Pvt Ltd",
+      "role": "Associate - System Engineer",
+      "location": "Kochi",
+      "posted": "13-11-2026",
+      "apply_by": "2026-11-13",
+      "level": "Entry level",
       "source": "Infopark page 1",
       "note": "Verified from Infopark public jobs page 1.",
-      "url": "https://infopark.in/company-jobs/details/354/26740"
+      "url": "https://infopark.in/company-jobs/details/312/26770"
     },
     {
       "company": "Technopark public careers",
@@ -87,7 +76,7 @@
       "apply_by": "n/a",
       "level": "Source status",
       "source": "Automation",
-      "note": "Infopark page 1: 1 IT roles | Infopark page 2: 3 IT roles | Technopark: 0 IT roles | Bengaluru direct employer pages failed: 404 Client Error: Not Found for url: https://jobs.lever.co/Sprinto/c325db0c-2182-4751-85c2-4adfee69a6ce | Naukri verified pages: 0 IT roles",
+      "note": "Infopark page 1: 1 IT roles | Infopark page 2: 2 IT roles | Technopark: 0 IT roles | Bengaluru direct employer pages failed: 404 Client Error: Not Found for url: https://jobs.lever.co/Sprinto/c325db0c-2182-4751-85c2-4adfee69a6ce | Naukri verified pages: 0 IT roles",
       "url": "https://infopark.in/companies-job"
     }
   ]
