@@ -1,18 +1,29 @@
 {
-  "refreshedAt": "2026-11-17T12:55:30Z",
+  "refreshedAt": "2026-11-17T21:37:09Z",
   "locationPriority": [
     "Kochi",
     "Thiruvananthapuram",
     "Bengaluru"
   ],
   "sourcesChecked": [
-    "Infopark page 1: 2 IT roles",
-    "Infopark page 2: 1 IT roles",
+    "Infopark page 1: 1 IT roles",
+    "Infopark page 2: 2 IT roles",
     "Technopark: 0 IT roles",
     "Bengaluru direct employer pages failed: 404 Client Error: Not Found for url: https://jobs.lever.co/Sprinto/c325db0c-2182-4751-85c2-4adfee69a6ce",
     "Naukri verified pages: 0 IT roles"
   ],
   "jobs": [
+    {
+      "company": "Amplitude Software Systems Pvt Ltd",
+      "role": "Software Functional Support/ Implementer Trainee",
+      "location": "Kochi",
+      "posted": "13-11-2026",
+      "apply_by": "2026-12-13",
+      "level": "Trainee",
+      "source": "Infopark page 2",
+      "note": "Verified from Infopark public jobs page 2.",
+      "url": "https://infopark.in/company-jobs/details/326/26782"
+    },
     {
       "company": "QC Verify Private Limited",
       "role": "Data Base Engineer Intern",
@@ -23,17 +34,6 @@
       "source": "Infopark page 2",
       "note": "Verified from Infopark public jobs page 2.",
       "url": "https://infopark.in/company-jobs/details/257/26822"
-    },
-    {
-      "company": "2Base Technologies Pvt Ltd",
-      "role": "Associate - System Engineer",
-      "location": "Kochi",
-      "posted": "17-11-2026",
-      "apply_by": "2026-11-17",
-      "level": "Entry level",
-      "source": "Infopark page 1",
-      "note": "Verified from Infopark public jobs page 1.",
-      "url": "https://infopark.in/company-jobs/details/312/26840"
     },
     {
       "company": "CloudHouse Technologies Pvt.Ltd",
@@ -76,7 +76,7 @@
       "apply_by": "n/a",
       "level": "Source status",
       "source": "Automation",
-      "note": "Infopark page 1: 2 IT roles | Infopark page 2: 1 IT roles | Technopark: 0 IT roles | Bengaluru direct employer pages failed: 404 Client Error: Not Found for url: https://jobs.lever.co/Sprinto/c325db0c-2182-4751-85c2-4adfee69a6ce | Naukri verified pages: 0 IT roles",
+      "note": "Infopark page 1: 1 IT roles | Infopark page 2: 2 IT roles | Technopark: 0 IT roles | Bengaluru direct employer pages failed: 404 Client Error: Not Found for url: https://jobs.lever.co/Sprinto/c325db0c-2182-4751-85c2-4adfee69a6ce | Naukri verified pages: 0 IT roles",
       "url": "https://infopark.in/companies-job"
     }
   ]
