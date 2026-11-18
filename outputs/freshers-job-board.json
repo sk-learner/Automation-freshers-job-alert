@@ -1,40 +1,18 @@
 {
-  "refreshedAt": "2026-11-18T03:27:26Z",
+  "refreshedAt": "2026-11-18T12:08:41Z",
   "locationPriority": [
     "Kochi",
     "Thiruvananthapuram",
     "Bengaluru"
   ],
   "sourcesChecked": [
-    "Infopark page 1: 1 IT roles",
-    "Infopark page 2: 2 IT roles",
+    "Infopark page 1: 2 IT roles",
+    "Infopark page 2: 1 IT roles",
     "Technopark: 0 IT roles",
     "Bengaluru direct employer pages failed: 404 Client Error: Not Found for url: https://jobs.lever.co/Sprinto/c325db0c-2182-4751-85c2-4adfee69a6ce",
     "Naukri verified pages: 0 IT roles"
   ],
   "jobs": [
-    {
-      "company": "Amplitude Software Systems Pvt Ltd",
-      "role": "Software Functional Support/ Implementer Trainee",
-      "location": "Kochi",
-      "posted": "13-11-2026",
-      "apply_by": "2026-12-13",
-      "level": "Trainee",
-      "source": "Infopark page 2",
-      "note": "Verified from Infopark public jobs page 2.",
-      "url": "https://infopark.in/company-jobs/details/326/26782"
-    },
-    {
-      "company": "QC Verify Private Limited",
-      "role": "Data Base Engineer Intern",
-      "location": "Kochi",
-      "posted": "16-11-2026",
-      "apply_by": "2026-11-30",
-      "level": "Internship",
-      "source": "Infopark page 2",
-      "note": "Verified from Infopark public jobs page 2.",
-      "url": "https://infopark.in/company-jobs/details/257/26822"
-    },
     {
       "company": "CloudHouse Technologies Pvt.Ltd",
       "role": "Full Stack Developer Intern",
@@ -42,9 +20,31 @@
       "posted": "17-11-2026",
       "apply_by": "2026-11-24",
       "level": "Internship",
+      "source": "Infopark page 2",
+      "note": "Verified from Infopark public jobs page 2.",
+      "url": "https://infopark.in/company-jobs/details/480/26848"
+    },
+    {
+      "company": "KL Koncepts Lab Media and IT Park",
+      "role": "Project Coordinator Intern",
+      "location": "Kochi",
+      "posted": "18-11-2026",
+      "apply_by": "2026-11-23",
+      "level": "Internship",
       "source": "Infopark page 1",
       "note": "Verified from Infopark public jobs page 1.",
-      "url": "https://infopark.in/company-jobs/details/480/26848"
+      "url": "https://infopark.in/company-jobs/details/332/26881"
+    },
+    {
+      "company": "Feathersoft Info Solutions Private Ltd",
+      "role": "Junior Market Research Analyst",
+      "location": "Kochi",
+      "posted": "18-11-2026",
+      "apply_by": "2026-12-18",
+      "level": "Junior",
+      "source": "Infopark page 1",
+      "note": "Verified from Infopark public jobs page 1.",
+      "url": "https://infopark.in/company-jobs/details/269/26878"
     },
     {
       "company": "Technopark public careers",
@@ -76,7 +76,7 @@
       "apply_by": "n/a",
       "level": "Source status",
       "source": "Automation",
-      "note": "Infopark page 1: 1 IT roles | Infopark page 2: 2 IT roles | Technopark: 0 IT roles | Bengaluru direct employer pages failed: 404 Client Error: Not Found for url: https://jobs.lever.co/Sprinto/c325db0c-2182-4751-85c2-4adfee69a6ce | Naukri verified pages: 0 IT roles",
+      "note": "Infopark page 1: 2 IT roles | Infopark page 2: 1 IT roles | Technopark: 0 IT roles | Bengaluru direct employer pages failed: 404 Client Error: Not Found for url: https://jobs.lever.co/Sprinto/c325db0c-2182-4751-85c2-4adfee69a6ce | Naukri verified pages: 0 IT roles",
       "url": "https://infopark.in/companies-job"
     }
   ]
