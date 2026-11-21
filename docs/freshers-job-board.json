@@ -1,5 +1,5 @@
 {
-  "refreshedAt": "2026-11-20T23:50:00Z",
+  "refreshedAt": "2026-11-21T06:24:48Z",
   "locationPriority": [
     "Kochi",
     "Thiruvananthapuram",
@@ -7,34 +7,12 @@
   ],
   "sourcesChecked": [
     "Infopark page 1: 2 IT roles",
-    "Infopark page 2: 2 IT roles",
+    "Infopark page 2: 1 IT roles",
     "Technopark: 0 IT roles",
     "Bengaluru direct employer pages failed: 404 Client Error: Not Found for url: https://jobs.lever.co/Sprinto/c325db0c-2182-4751-85c2-4adfee69a6ce",
     "Naukri verified pages: 0 IT roles"
   ],
   "jobs": [
-    {
-      "company": "KL Koncepts Lab Media and IT Park",
-      "role": "Project Coordinator Intern",
-      "location": "Kochi",
-      "posted": "18-11-2026",
-      "apply_by": "2026-11-23",
-      "level": "Internship",
-      "source": "Infopark page 2",
-      "note": "Verified from Infopark public jobs page 2.",
-      "url": "https://infopark.in/company-jobs/details/332/26881"
-    },
-    {
-      "company": "Feathersoft Info Solutions Private Ltd",
-      "role": "Junior Market Research Analyst",
-      "location": "Kochi",
-      "posted": "18-11-2026",
-      "apply_by": "2026-12-18",
-      "level": "Junior",
-      "source": "Infopark page 2",
-      "note": "Verified from Infopark public jobs page 2.",
-      "url": "https://infopark.in/company-jobs/details/269/26878"
-    },
     {
       "company": "Woxro",
       "role": "Microsoft Dynamics 365 Business Central Technical (Intern)",
@@ -42,8 +20,8 @@
       "posted": "19-11-2026",
       "apply_by": "2026-11-30",
       "level": "Internship",
-      "source": "Infopark page 1",
-      "note": "Verified from Infopark public jobs page 1.",
+      "source": "Infopark page 2",
+      "note": "Verified from Infopark public jobs page 2.",
       "url": "https://infopark.in/company-jobs/details/399/26913"
     },
     {
@@ -58,10 +36,21 @@
       "url": "https://infopark.in/company-jobs/details/39/26932"
     },
     {
+      "company": "Aabasoft Technologies India Private Limited",
+      "role": "Software Development .NET Internship",
+      "location": "Kochi",
+      "posted": "21-11-2026",
+      "apply_by": "2026-12-21",
+      "level": "Internship",
+      "source": "Infopark page 1",
+      "note": "Verified from Infopark public jobs page 1.",
+      "url": "https://infopark.in/company-jobs/details/95/26950"
+    },
+    {
       "company": "Technopark public careers",
       "role": "Coverage check only",
       "location": "Watchlist",
-      "posted": "2026-11-20",
+      "posted": "2026-11-21",
       "apply_by": "n/a",
       "level": "Source status",
       "source": "Technopark",
@@ -72,7 +61,7 @@
       "company": "Broader web search",
       "role": "Coverage check only",
       "location": "Watchlist",
-      "posted": "2026-11-20",
+      "posted": "2026-11-21",
       "apply_by": "n/a",
       "level": "Source status",
       "source": "Web search",
@@ -83,11 +72,11 @@
       "company": "Run notes",
       "role": "Source coverage summary",
       "location": "Watchlist",
-      "posted": "2026-11-20",
+      "posted": "2026-11-21",
       "apply_by": "n/a",
       "level": "Source status",
       "source": "Automation",
-      "note": "Infopark page 1: 2 IT roles | Infopark page 2: 2 IT roles | Technopark: 0 IT roles | Bengaluru direct employer pages failed: 404 Client Error: Not Found for url: https://jobs.lever.co/Sprinto/c325db0c-2182-4751-85c2-4adfee69a6ce | Naukri verified pages: 0 IT roles",
+      "note": "Infopark page 1: 2 IT roles | Infopark page 2: 1 IT roles | Technopark: 0 IT roles | Bengaluru direct employer pages failed: 404 Client Error: Not Found for url: https://jobs.lever.co/Sprinto/c325db0c-2182-4751-85c2-4adfee69a6ce | Naukri verified pages: 0 IT roles",
       "url": "https://infopark.in/companies-job"
     }
   ]
