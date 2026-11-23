@@ -1,5 +1,5 @@
 {
-  "refreshedAt": "2026-11-23T02:59:38Z",
+  "refreshedAt": "2026-11-23T12:14:31Z",
   "locationPriority": [
     "Kochi",
     "Thiruvananthapuram",
@@ -7,22 +7,22 @@
   ],
   "sourcesChecked": [
     "Infopark page 1: 2 IT roles",
-    "Infopark page 2: 1 IT roles",
+    "Infopark page 2: 2 IT roles",
     "Technopark: 0 IT roles",
     "Bengaluru direct employer pages failed: 404 Client Error: Not Found for url: https://jobs.lever.co/Sprinto/c325db0c-2182-4751-85c2-4adfee69a6ce",
     "Naukri verified pages: 0 IT roles"
   ],
   "jobs": [
     {
-      "company": "Woxro",
-      "role": "Microsoft Dynamics 365 Business Central Technical (Intern)",
+      "company": "Vistas Global Intellect Private Limited",
+      "role": "Payroll Associate - HCM",
       "location": "Kochi",
-      "posted": "19-11-2026",
-      "apply_by": "2026-11-30",
-      "level": "Internship",
-      "source": "Infopark page 2",
-      "note": "Verified from Infopark public jobs page 2.",
-      "url": "https://infopark.in/company-jobs/details/399/26913"
+      "posted": "23-11-2026",
+      "apply_by": "2026-12-25",
+      "level": "Early career",
+      "source": "Infopark page 1",
+      "note": "Verified from Infopark public jobs page 1.",
+      "url": "https://infopark.in/company-jobs/details/492/26962"
     },
     {
       "company": "SaNDS Lab",
@@ -31,8 +31,8 @@
       "posted": "20-11-2026",
       "apply_by": "2026-11-30",
       "level": "Internship",
-      "source": "Infopark page 1",
-      "note": "Verified from Infopark public jobs page 1.",
+      "source": "Infopark page 2",
+      "note": "Verified from Infopark public jobs page 2.",
       "url": "https://infopark.in/company-jobs/details/39/26932"
     },
     {
@@ -42,9 +42,20 @@
       "posted": "21-11-2026",
       "apply_by": "2026-12-21",
       "level": "Internship",
+      "source": "Infopark page 2",
+      "note": "Verified from Infopark public jobs page 2.",
+      "url": "https://infopark.in/company-jobs/details/95/26950"
+    },
+    {
+      "company": "9Commerce Technologies",
+      "role": "SOFTWARE DEVELOPMENT \u2013 INTERNSHIP & ON-THE-JOB TRAINING PROGRAM",
+      "location": "Kochi",
+      "posted": "23-11-2026",
+      "apply_by": "2026-12-31",
+      "level": "Internship",
       "source": "Infopark page 1",
       "note": "Verified from Infopark public jobs page 1.",
-      "url": "https://infopark.in/company-jobs/details/95/26950"
+      "url": "https://infopark.in/company-jobs/details/261/26970"
     },
     {
       "company": "Technopark public careers",
@@ -76,7 +87,7 @@
       "apply_by": "n/a",
       "level": "Source status",
       "source": "Automation",
-      "note": "Infopark page 1: 2 IT roles | Infopark page 2: 1 IT roles | Technopark: 0 IT roles | Bengaluru direct employer pages failed: 404 Client Error: Not Found for url: https://jobs.lever.co/Sprinto/c325db0c-2182-4751-85c2-4adfee69a6ce | Naukri verified pages: 0 IT roles",
+      "note": "Infopark page 1: 2 IT roles | Infopark page 2: 2 IT roles | Technopark: 0 IT roles | Bengaluru direct employer pages failed: 404 Client Error: Not Found for url: https://jobs.lever.co/Sprinto/c325db0c-2182-4751-85c2-4adfee69a6ce | Naukri verified pages: 0 IT roles",
       "url": "https://infopark.in/companies-job"
     }
   ]
