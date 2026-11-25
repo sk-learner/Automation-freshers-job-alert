@@ -1,5 +1,5 @@
 {
-  "refreshedAt": "2026-11-24T20:47:16Z",
+  "refreshedAt": "2026-11-25T04:00:29Z",
   "locationPriority": [
     "Kochi",
     "Thiruvananthapuram",
@@ -7,7 +7,7 @@
   ],
   "sourcesChecked": [
     "Infopark page 1: 0 IT roles",
-    "Infopark page 2: 3 IT roles",
+    "Infopark page 2: 2 IT roles",
     "Technopark: 0 IT roles",
     "Bengaluru direct employer pages failed: 404 Client Error: Not Found for url: https://jobs.lever.co/Sprinto/c325db0c-2182-4751-85c2-4adfee69a6ce",
     "Naukri verified pages: 0 IT roles"
@@ -25,17 +25,6 @@
       "url": "https://infopark.in/company-jobs/details/492/26962"
     },
     {
-      "company": "Aabasoft Technologies India Private Limited",
-      "role": "Software Development .NET Internship",
-      "location": "Kochi",
-      "posted": "21-11-2026",
-      "apply_by": "2026-12-21",
-      "level": "Internship",
-      "source": "Infopark page 2",
-      "note": "Verified from Infopark public jobs page 2.",
-      "url": "https://infopark.in/company-jobs/details/95/26950"
-    },
-    {
       "company": "9Commerce Technologies",
       "role": "SOFTWARE DEVELOPMENT \u2013 INTERNSHIP & ON-THE-JOB TRAINING PROGRAM",
       "location": "Kochi",
@@ -50,7 +39,7 @@
       "company": "Technopark public careers",
       "role": "Coverage check only",
       "location": "Watchlist",
-      "posted": "2026-11-24",
+      "posted": "2026-11-25",
       "apply_by": "n/a",
       "level": "Source status",
       "source": "Technopark",
@@ -61,7 +50,7 @@
       "company": "Broader web search",
       "role": "Coverage check only",
       "location": "Watchlist",
-      "posted": "2026-11-24",
+      "posted": "2026-11-25",
       "apply_by": "n/a",
       "level": "Source status",
       "source": "Web search",
@@ -72,11 +61,11 @@
       "company": "Run notes",
       "role": "Source coverage summary",
       "location": "Watchlist",
-      "posted": "2026-11-24",
+      "posted": "2026-11-25",
       "apply_by": "n/a",
       "level": "Source status",
       "source": "Automation",
-      "note": "Infopark page 1: 0 IT roles | Infopark page 2: 3 IT roles | Technopark: 0 IT roles | Bengaluru direct employer pages failed: 404 Client Error: Not Found for url: https://jobs.lever.co/Sprinto/c325db0c-2182-4751-85c2-4adfee69a6ce | Naukri verified pages: 0 IT roles",
+      "note": "Infopark page 1: 0 IT roles | Infopark page 2: 2 IT roles | Technopark: 0 IT roles | Bengaluru direct employer pages failed: 404 Client Error: Not Found for url: https://jobs.lever.co/Sprinto/c325db0c-2182-4751-85c2-4adfee69a6ce | Naukri verified pages: 0 IT roles",
       "url": "https://infopark.in/companies-job"
     }
   ]
