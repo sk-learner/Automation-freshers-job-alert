@@ -1,28 +1,28 @@
 {
-  "refreshedAt": "2026-11-26T05:23:23Z",
+  "refreshedAt": "2026-11-26T15:38:28Z",
   "locationPriority": [
     "Kochi",
     "Thiruvananthapuram",
     "Bengaluru"
   ],
   "sourcesChecked": [
-    "Infopark page 1: 0 IT roles",
-    "Infopark page 2: 1 IT roles",
+    "Infopark page 1: 1 IT roles",
+    "Infopark page 2: 0 IT roles",
     "Technopark: 0 IT roles",
     "Bengaluru direct employer pages failed: 404 Client Error: Not Found for url: https://jobs.lever.co/Sprinto/c325db0c-2182-4751-85c2-4adfee69a6ce",
     "Naukri verified pages: 0 IT roles"
   ],
   "jobs": [
     {
-      "company": "9Commerce Technologies",
-      "role": "SOFTWARE DEVELOPMENT \u2013 INTERNSHIP & ON-THE-JOB TRAINING PROGRAM",
+      "company": "Mozilor Technologies Pvt. Ltd.",
+      "role": "Legal Associate",
       "location": "Kochi",
-      "posted": "23-11-2026",
-      "apply_by": "2026-12-31",
-      "level": "Internship",
-      "source": "Infopark page 2",
-      "note": "Verified from Infopark public jobs page 2.",
-      "url": "https://infopark.in/company-jobs/details/261/26970"
+      "posted": "26-11-2026",
+      "apply_by": "2026-11-26",
+      "level": "Early career",
+      "source": "Infopark page 1",
+      "note": "Verified from Infopark public jobs page 1.",
+      "url": "https://infopark.in/company-jobs/details/333/27031"
     },
     {
       "company": "Technopark public careers",
@@ -54,7 +54,7 @@
       "apply_by": "n/a",
       "level": "Source status",
       "source": "Automation",
-      "note": "Infopark page 1: 0 IT roles | Infopark page 2: 1 IT roles | Technopark: 0 IT roles | Bengaluru direct employer pages failed: 404 Client Error: Not Found for url: https://jobs.lever.co/Sprinto/c325db0c-2182-4751-85c2-4adfee69a6ce | Naukri verified pages: 0 IT roles",
+      "note": "Infopark page 1: 1 IT roles | Infopark page 2: 0 IT roles | Technopark: 0 IT roles | Bengaluru direct employer pages failed: 404 Client Error: Not Found for url: https://jobs.lever.co/Sprinto/c325db0c-2182-4751-85c2-4adfee69a6ce | Naukri verified pages: 0 IT roles",
       "url": "https://infopark.in/companies-job"
     }
   ]
